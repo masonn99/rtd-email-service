@@ -1,0 +1,32 @@
+{
+  "Country2": {
+    "email": "skkskk207@gmail.com",
+    "sent_date": "2025-01-15T22:58:37.647865",
+    "status": "sent"
+  },
+  "Country1": {
+    "email": "saizaawwintnaung@gmail.com",
+    "sent_date": "2025-01-15T23:22:11.891177",
+    "status": "sent"
+  },
+  "Albania": {
+    "email": "Embassy.washington@mfa.gov.al",
+    "sent_date": "2025-01-15T23:41:34.338641",
+    "status": "sent"
+  },
+  "Algeria": {
+    "email": "consular-section@algerianembassy.org",
+    "sent_date": "2025-01-15T23:42:36.072026",
+    "status": "sent"
+  },
+  "Andorra": {
+    "email": "contact@andorraun.org",
+    "sent_date": "2025-01-15T23:43:46.218558",
+    "status": "sent"
+  },
+  "Angola": {
+    "email": "visa.consular@angola.org",
+    "sent_date": "2025-01-15T23:45:34.250992",
+    "status": "sent"
+  }
+}
