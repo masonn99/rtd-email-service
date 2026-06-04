@@ -2,31 +2,36 @@
   "Country2": {
     "email": "skkskk207@gmail.com",
     "sent_date": "2025-01-15T22:58:37.647865",
-    "status": "sent"
+    "status": "replied",
+    "reply_date": "2026-06-04T15:05:58.110098",
+    "raw_reply": "Hi Mason,\r\n\r\nYou do not need a visa to enter Barakuah Kingdom with a refugee travel\r\ndocument. However, you will need at least 5 months validity on ur document\r\nto enter the kingdom.\r\n\r\nBest,\r\n\r\nM\r\n\r\nOn Thu, 4 Jun 2026 at 14:30, Mason <rtdtraveller@gmail.com> wrote:\r\n\r\n> Hi,\r\n>\r\n> I was wondering if i require a visa to enter Barakuah Kingdom with refugee\r\n> travel document. Thanks\r\n>\r\n> best,\r\n> Traveller\r\n>\r\n",
+    "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/74"
   },
   "Country1": {
     "email": "saizaawwintnaung@gmail.com",
     "sent_date": "2025-01-15T23:22:11.891177",
-    "status": "sent"
+    "status": "no_reply"
   },
   "Albania": {
     "email": "Embassy.washington@mfa.gov.al",
     "sent_date": "2025-01-15T23:41:34.338641",
-    "status": "sent"
+    "status": "no_reply"
   },
   "Algeria": {
     "email": "consular-section@algerianembassy.org",
     "sent_date": "2025-01-15T23:42:36.072026",
-    "status": "sent"
+    "status": "replied",
+    "reply_date": "2026-06-04T14:45:43.731569",
+    "raw_reply": "Dear Sir\r\n\r\nwhere do you currently reside?\r\n\r\nSincerely\r\n\r\n\r\nOn 2025-01-15 23:42, rtdtraveller@gmail.com wrote:\r\n> Dear Algeria Embassy,\r\n> \r\n> I hope this email finds you well. I am writing to inquire about the \r\n> visa requirements for holders of US Refugee Travel Document issued by \r\n> USCIS.\r\n> Specifically, I would like to know:\r\n> \r\n> 1. Whether your country recognizes and accepts the US Refugee Travel \r\n> Document\r\n> 2. If a visa is required for entry with this travel document\r\n> 3. If required, what is the process for obtaining a visa\r\n> \r\n> Here is a sample Refugee Travel Document: \r\n> https://www.cbp.gov/sites/default/files/assets/documents/2019-Nov/New%20USCIS%20Travel%20Document%2020191105_0.pdf\r\n> Thank you for your assistance.\r\n> \r\n> Best regards,\r\n> [Mason]\r\n"
   },
   "Andorra": {
     "email": "contact@andorraun.org",
     "sent_date": "2025-01-15T23:43:46.218558",
-    "status": "sent"
+    "status": "no_reply"
   },
   "Angola": {
     "email": "visa.consular@angola.org",
     "sent_date": "2025-01-15T23:45:34.250992",
-    "status": "sent"
+    "status": "no_reply"
   }
 }

@@ -1,5 +1,7 @@
 import json
 import os
+from pathlib import Path
+from dotenv import load_dotenv
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
@@ -8,10 +10,10 @@ from typing import Dict, List, Optional, Union
 import time
 from datetime import datetime
 import logging
-from pathlib import Path
 
 class EmbassyEmailer:
     def __init__(self):
+        load_dotenv(Path(__file__).parent / '.env')
         self.email_user = os.getenv('EMAIL_USER')
         self.email_password = os.getenv('EMAIL_PASSWORD')
         self.sent_log = 'sent_emails.json'
@@ -230,8 +232,8 @@ if __name__ == "__main__":
         current_dir = os.path.dirname(os.path.abspath(__file__))
         scraper_dir = os.path.join(current_dir, '..', 'emailScrapper')
         
-        # Embassy data file path
-        embassy_file = os.path.join(scraper_dir, 'embassy_emails.json')
+        # Embassy data file path — filtered to countries not yet in data.json
+        embassy_file = os.path.join(scraper_dir, 'embassy_emails_missing.json')
         if not os.path.exists(embassy_file):
             print(f"Error: {embassy_file} not found!")
             exit(1)

@@ -1,0 +1,581 @@
+{
+  "Algeria": {
+    "emails": [
+      "consular-section@algerianembassy.org"
+    ]
+  },
+  "Andorra": {
+    "emails": [
+      "contact@andorraun.org"
+    ]
+  },
+  "Angola": {
+    "emails": [
+      "visa.consular@angola.org",
+      "sector-consular@angolaconsulate-tx.org",
+      "info@angolaconsulateny.org"
+    ]
+  },
+  "Antigua and Barbuda": {
+    "emails": [
+      "embantbar@aol.com"
+    ]
+  },
+  "Azerbaijan": {
+    "emails": [
+      "consul@azembassy.us",
+      "consul@azconsulatela.org",
+      "office@azconsulatela.org"
+    ]
+  },
+  "Bahrain": {
+    "emails": [
+      "consulate@bahrainembassy.org",
+      "newyork.mission@mofa.gov.bh"
+    ]
+  },
+  "Barbados": {
+    "emails": [
+      "consnotbarbados@foreign.gov.bb",
+      "miami@foreign.gov.bb",
+      "newyork@foreign.gov.bb"
+    ]
+  },
+  "Belarus": {
+    "emails": [
+      "usa@mfa.gov.by"
+    ]
+  },
+  "Belize": {
+    "emails": [
+      "reception.usa@mfa.gov.bz",
+      "belizeconsulatela@mfa.gov.bz",
+      "consulatebelize@gmail.com"
+    ]
+  },
+  "Benin": {
+    "emails": [
+      "iambassade.washington@gouv.bj"
+    ]
+  },
+  "Bhutan": {
+    "emails": [
+      "consulate.pmbny@mfa.gov.bt"
+    ]
+  },
+  "Bolivia, Plurinational State of": {
+    "emails": [
+      "consularnotification@boliviawdc.com",
+      "info@boliviatx.org",
+      "info@boliviala.org",
+      "info@boliviany.org"
+    ]
+  },
+  "Bosnia and Herzegovina": {
+    "emails": [
+      "consularaffairs@bhembassy.org",
+      "bih.konzulat.chicago@gmail.com"
+    ]
+  },
+  "Botswana": {
+    "emails": [
+      "info@botswanaembassy.org"
+    ]
+  },
+  "Brunei Darussalam": {
+    "emails": [
+      "info@bruneiembassy.org",
+      "Newyork.usa@mfa.gov.bn"
+    ]
+  },
+  "Bulgaria": {
+    "emails": [
+      "consulate@bulgaria-embassy.org",
+      "Consulate.Chicago@mfa.bg",
+      "Consulate.LosAngeles@mfa.bg",
+      "Consulate.NewYork@mfa.bg"
+    ]
+  },
+  "Burkina Faso": {
+    "emails": [
+      "ambawdc@verizon.net",
+      "consulatbfny@gmail.com"
+    ]
+  },
+  "Cabo Verde": {
+    "emails": [
+      "embassy@caboverdeus.net"
+    ]
+  },
+  "Cameroon": {
+    "emails": [
+      "cs@cameroonembassyusa.org"
+    ]
+  },
+  "Central African Republic": {
+    "emails": [
+      "caf@usrcaembassy.org"
+    ]
+  },
+  "Chad": {
+    "emails": [
+      "firstsecretary@chadembassy.us"
+    ]
+  },
+  "Comoros": {
+    "emails": [
+      "comoros@un.int"
+    ]
+  },
+  "Congo": {
+    "emails": [
+      "consulate@ambacongo-us.org"
+    ]
+  },
+  "Cuba": {
+    "emails": [
+      "recepcion@usadc.embacuba.cu"
+    ]
+  },
+  "Côte d'Ivoire": {
+    "emails": [
+      "info@ambacidc.org"
+    ]
+  },
+  "Djibouti": {
+    "emails": [
+      "info@djiboutiembassyus.org"
+    ]
+  },
+  "Dominica": {
+    "emails": [
+      "embdomdc@aol.com",
+      "dmaun@undp.org"
+    ]
+  },
+  "Ecuador": {
+    "emails": [
+      "eecuusa@cancilleria.gob.ec"
+    ]
+  },
+  "Equatorial Guinea": {
+    "emails": [
+      "consular@egembassydc.com"
+    ]
+  },
+  "Eritrea": {
+    "emails": [
+      "consular_washington@embassyeritrea.org"
+    ]
+  },
+  "Ethiopia": {
+    "emails": [
+      "consular@ethiopianembassy.org",
+      "Info@ethioconsulatela.org",
+      "minnesota.consulate@mfa.gov.et"
+    ]
+  },
+  "Fiji": {
+    "emails": [
+      "ambassador@fijiembassydc.com"
+    ]
+  },
+  "Gabon": {
+    "emails": [
+      "info@gabonembassyusa.org"
+    ]
+  },
+  "Ghana": {
+    "emails": [
+      "info@ghanaembassydc.org",
+      "consular@ghanaconsulatenewyork.org"
+    ]
+  },
+  "Greece": {
+    "emails": [
+      "grcon.was@mfa.gr",
+      "grcon.atl@mfa.gr",
+      "grgencon.bos@mfa.gr",
+      "grgencon.cic@mfa.gr",
+      "grcon.hou@mfa.gr",
+      "grgencon.la@mfa.gr",
+      "grgencon.ny@mfa.grr",
+      "grgencon.sf@mfa.gr",
+      "grgencon.tam@mfa.gr"
+    ]
+  },
+  "Grenada": {
+    "emails": [
+      "miami@mofa.gov.gd"
+    ]
+  },
+  "Guinea-Bissau": {
+    "emails": [
+      "guinea-bissau@un.int"
+    ]
+  },
+  "Guyana": {
+    "emails": [
+      "guyanaembassydc@verizon.net",
+      "cgny@guyanaconsulatenewyork.org"
+    ]
+  },
+  "Haiti": {
+    "emails": [
+      "cons.wash@diplomatie.ht",
+      "cg.atlanta@diplomatie.ht",
+      "Cg.boston@diplomatie.ht",
+      "Cg.chicago@diplomatie.ht",
+      "cons.orlando@diplomatie.ht",
+      "Cg.miami@diplomatie.ht",
+      "cg.newyork@diplomatie.ht"
+    ]
+  },
+  "Holy See": {
+    "emails": [
+      "nuntiususa@nuntiususa.org"
+    ]
+  },
+  "Honduras": {
+    "emails": [
+      "info@wadchn.com",
+      "info@consuladohnatl.com",
+      "info@consuladobostonhn.com",
+      "consuladohncharlotteproteccion@gmail.com",
+      "chicago@sre.gob.hn",
+      "hondurasdallas@hotmail.com",
+      "consuladohondurashouston@gmail.com",
+      "infoconsuladola@gmail.com",
+      "mcallen@sre.gob.hn",
+      "proteccionhn.miami@gmail.com",
+      "infonolahn@gmail.com",
+      "emergenciaconsuladony@gmail.com",
+      "consuladohnensanfrancisco@gmail.com",
+      "consuladoseattle@gmail.com"
+    ]
+  },
+  "Iraq": {
+    "emails": [
+      "consulate@iraqiembassy.us"
+    ]
+  },
+  "Jamaica": {
+    "emails": [
+      "security@embassyofjamaica.org",
+      "info@jamaicanconsulateatlanta.org",
+      "info@jamaicanconsulateinLA.org",
+      "contactus@jamaicacgmiami.org",
+      "cro@congenjamaica-ny.org"
+    ]
+  },
+  "Kazakhstan": {
+    "emails": [
+      "consuldc@mfa.kz",
+      "consul.newyork@mfa.kz",
+      "sanfrancisco@mfa.kz"
+    ]
+  },
+  "Kiribati": {
+    "emails": [
+      "fsun@mfa.gov.ki"
+    ]
+  },
+  "Kyrgyzstan": {
+    "emails": [
+      "kgconsulate.washington@mfa.gov.kg"
+    ]
+  },
+  "Lebanon": {
+    "emails": [
+      "consular@lebanonembassyus.org",
+      "info@lebanonconsulategdetroit.org",
+      "info@nylebcons.org"
+    ]
+  },
+  "Lesotho": {
+    "emails": [
+      "lesothoembassy@verizon.net"
+    ]
+  },
+  "Liberia": {
+    "emails": [
+      "consular@liberianembassyus.org",
+      "Info@liberiaconsulate-ny.com"
+    ]
+  },
+  "Libya": {
+    "emails": [
+      "Consular.sec@embassyoflibyadc.com",
+      "lbyun@undp.org"
+    ]
+  },
+  "Liechtenstein": {
+    "emails": [
+      "washington@llv.li"
+    ]
+  },
+  "Macedonia": {
+    "emails": [
+      "washington@mfa.gov.mk",
+      "detroit@mfa.gov.mk",
+      "cg.newyork@mfa.gov.mk"
+    ]
+  },
+  "Madagascar": {
+    "emails": [
+      "Malagasy.embassy@verizon.net"
+    ]
+  },
+  "Malawi": {
+    "emails": [
+      "malawidc@aol.com"
+    ]
+  },
+  "Maldives": {
+    "emails": [
+      "info@maldivesmission.com"
+    ]
+  },
+  "Mali": {
+    "emails": [
+      "amaiga@maliembassy.us"
+    ]
+  },
+  "Malta": {
+    "emails": [
+      "maltaembassy.washington@gov.mt​"
+    ]
+  },
+  "Marshall Islands": {
+    "emails": [
+      "info@rmiembassyus.org"
+    ]
+  },
+  "Mauritania": {
+    "emails": [
+      "ambarimwash@gmail.com",
+      "mauritaniamission@gmail.com"
+    ]
+  },
+  "Micronesia, Federated States of": {
+    "emails": [
+      "dcmission@fsmembassy.fm",
+      "fsmcghnl@aol.com",
+      "cg.portland@gov.fm",
+      "fsm@teleguam.net"
+    ]
+  },
+  "Monaco": {
+    "emails": [
+      "embassy@monacodc.org",
+      "info@monaco-consulate.com"
+    ]
+  },
+  "Mongolia": {
+    "emails": [
+      "monconsul@mongolianembassy.us",
+      "newyork@mfa.gov.mn",
+      "sanfrancisco@mfa.gov.mn",
+      "info@mongolianconsulate.us"
+    ]
+  },
+  "Mozambique": {
+    "emails": [
+      "washington.dc@embamoc.gov.mz"
+    ]
+  },
+  "Nauru": {
+    "emails": [
+      "nauru@onecommonwealth.org"
+    ]
+  },
+  "Nicaragua": {
+    "emails": [
+      "consularnotification.nic@embanic.org"
+    ]
+  },
+  "Niger": {
+    "emails": [
+      "communication@embassyofniger-usa.org"
+    ]
+  },
+  "Pakistan": {
+    "emails": [
+      "consularsection@embassyofpakistanusa.org",
+      "pakistan@tiac.net",
+      "deputyconsulgeneral@cgpkchicago.org",
+      "parephouston@sbcglobal.net",
+      "dcg@pakconsulatela.org"
+    ]
+  },
+  "Palau": {
+    "emails": [
+      "info@palauembassy.org"
+    ]
+  },
+  "Papua New Guinea": {
+    "emails": [
+      "info@pngembassy.org"
+    ]
+  },
+  "Paraguay": {
+    "emails": [
+      "eeuuembaparsc@mre.gov.py",
+      "losangelescongralpar@mre.gov.py",
+      "miamicongralpar@mre.gov.py",
+      "info@consulparny.com"
+    ]
+  },
+  "Reunion": {
+    "emails": [
+      "info.washington-fslt@diplomatie.gouv.fr",
+      "info.atlanta-fslt@diplomatie.gouv.fr",
+      "consulat.boston-cslt@diplomatie.gouv.fr",
+      "info.chicago-cslt@diplomatie.gouv.fr",
+      "infos.houston-fslt@diplomatie.gouv.fr",
+      "info.los-angeles-fslt@diplomatie.gouv.fr",
+      "francais.miami-fslt@diplomatie.gouv.fr",
+      "info@consulfrance-nouvelleorleans.org",
+      "info.new-york-cslt@diplomatie.gouv.fr",
+      "admin-francais.san-francisco-fslt@diplomatie.gouv.fr"
+    ]
+  },
+  "Russian Federation": {
+    "emails": [
+      "russconswdc@gmail.com",
+      "detention@rusconshouston.org"
+    ]
+  },
+  "Rwanda": {
+    "emails": [
+      "info@rwandaembassy.org",
+      "rwaun@undp.org"
+    ]
+  },
+  "Saint Kitts and Nevis": {
+    "emails": [
+      "stkittsnevis@embskn.com"
+    ]
+  },
+  "Saint Lucia": {
+    "emails": [
+      "embassydc@gosl.gov.lc",
+      "info@stluciamission.org"
+    ]
+  },
+  "Saint Vincent and the Grenadines": {
+    "emails": [
+      "mail@embsvg.com",
+      "svgmission@gmail.com"
+    ]
+  },
+  "Samoa": {
+    "emails": [
+      "samoanymission@outlook.com"
+    ]
+  },
+  "San Marino": {
+    "emails": [
+      "smrassistant@gmail.com"
+    ]
+  },
+  "Sao Tome and Principe": {
+    "emails": [
+      "rdstppmun@gmail.com"
+    ]
+  },
+  "Serbia": {
+    "emails": [
+      "consular@serbiaembusa.org",
+      "srb.cons.chicago@mfa.rs",
+      "consulate.newyork@mfa.rs"
+    ]
+  },
+  "Solomon Islands": {
+    "emails": [
+      "simun@solomons.com"
+    ]
+  },
+  "Somalia": {
+    "emails": [
+      "info@somaliembassydc.net",
+      "somalia@un.int"
+    ]
+  },
+  "South Sudan": {
+    "emails": [
+      "consularofficedc@gmail.com"
+    ]
+  },
+  "Sudan": {
+    "emails": [
+      "consular@sudanembassy.org",
+      "sudan@sudanmission.org"
+    ]
+  },
+  "Syrian Arab Republic": {
+    "emails": [
+      "Info@syrian-consulate.ca"
+    ]
+  },
+  "Tanzania, United Republic of": {
+    "emails": [
+      "ubalozi@tanzaniaembassy-us.org"
+    ]
+  },
+  "Timor-Leste": {
+    "emails": [
+      "ConSec@timorlesteembassy.org",
+      "timor-leste@un.int"
+    ]
+  },
+  "Togo": {
+    "emails": [
+      "info@togoembassy.us"
+    ]
+  },
+  "Tonga": {
+    "emails": [
+      "consulategeneraloftonga@gmail.com",
+      "tongaconsnot@gmail.com"
+    ]
+  },
+  "Tunisia": {
+    "emails": [
+      "consular@tunisianembassy.org"
+    ]
+  },
+  "Turkmenistan": {
+    "emails": [
+      "turkmenembassyus@verizon.net"
+    ]
+  },
+  "Tuvalu": {
+    "emails": [
+      "tuvalumission.un@gmail.com"
+    ]
+  },
+  "Uruguay": {
+    "emails": [
+      "cdwashington@mrree.gub.uy",
+      "cgmiami@mrree.gub.uy",
+      "cgnuevayork@mrree.gub.uy",
+      "cgsanfrancisco@mrree.gub.uy"
+    ]
+  },
+  "Vanuatu": {
+    "emails": [
+      "vanunmis@aol.com"
+    ]
+  },
+  "Venezuela, Bolivarian Republic of": {
+    "emails": [
+      "consnot@state.gov"
+    ]
+  },
+  "Zimbabwe": {
+    "emails": [
+      "consular@zimembassydc.org"
+    ]
+  }
+}
