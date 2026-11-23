@@ -1,0 +1,80 @@
+name: Embassy pipeline
+
+# Daily: read embassy replies, retry unanswered countries after 3 days,
+# and open one rtd-travel-check PR with new answers.
+#
+# Scheduled runs are DRY RUNS until the repo variable SEND_ENABLED is "true"
+# (Settings → Secrets and variables → Actions → Variables).
+# Manual runs: Actions → Embassy pipeline → Run workflow (tick "live" to send).
+
+on:
+  schedule:
+    - cron: "17 14 * * *" # 14:17 UTC daily (morning in the US)
+  workflow_dispatch:
+    inputs:
+      live:
+        description: "Send emails, open the PR and save state (unticked = dry run)"
+        type: boolean
+        default: false
+      max_sends:
+        description: "Maximum emails this run"
+        default: "15"
+
+permissions:
+  contents: write # commit pipeline/state.json back
+
+concurrency:
+  group: embassy-pipeline
+  cancel-in-progress: false
+
+env:
+  LIVE: ${{ (github.event_name == 'schedule' && vars.SEND_ENABLED == 'true') || (github.event_name == 'workflow_dispatch' && inputs.live) }}
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - run: pip install -r pipeline/requirements.txt
+
+      - name: Tests
+        run: python -m unittest discover tests
+
+      - name: Run pipeline
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TRAVEL_CHECK_TOKEN: ${{ secrets.TRAVEL_CHECK_TOKEN }}
+          SENDER_NAME: ${{ vars.SENDER_NAME }}
+          MAX_SENDS: ${{ inputs.max_sends || '15' }}
+        run: |
+          if [ "$LIVE" = "true" ]; then
+            python -m pipeline.run --live --max-sends "$MAX_SENDS"
+          else
+            python -m pipeline.run --max-sends "$MAX_SENDS"
+          fi
+
+      # always(): state is saved after every email, so even a failed run must
+      # commit it — otherwise the next run could email the same embassy twice.
+      - name: Save state
+        if: always() && env.LIVE == 'true'
+        run: |
+          git add pipeline/state.json
+          if git diff --cached --quiet; then
+            echo "State unchanged"
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "Update embassy pipeline state [skip ci]"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
