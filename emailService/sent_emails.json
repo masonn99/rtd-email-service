@@ -1,17 +1,4 @@
 {
-  "Country2": {
-    "email": "skkskk207@gmail.com",
-    "sent_date": "2025-01-15T22:58:37.647865",
-    "status": "replied",
-    "reply_date": "2026-06-04T15:05:58.110098",
-    "raw_reply": "Hi Mason,\r\n\r\nYou do not need a visa to enter Barakuah Kingdom with a refugee travel\r\ndocument. However, you will need at least 5 months validity on ur document\r\nto enter the kingdom.\r\n\r\nBest,\r\n\r\nM\r\n\r\nOn Thu, 4 Jun 2026 at 14:30, Mason <rtdtraveller@gmail.com> wrote:\r\n\r\n> Hi,\r\n>\r\n> I was wondering if i require a visa to enter Barakuah Kingdom with refugee\r\n> travel document. Thanks\r\n>\r\n> best,\r\n> Traveller\r\n>\r\n",
-    "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/74"
-  },
-  "Country1": {
-    "email": "saizaawwintnaung@gmail.com",
-    "sent_date": "2025-01-15T23:22:11.891177",
-    "status": "no_reply"
-  },
   "Albania": {
     "email": "Embassy.washington@mfa.gov.al",
     "sent_date": "2025-01-15T23:41:34.338641",
