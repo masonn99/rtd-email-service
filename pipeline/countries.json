@@ -1,0 +1,2090 @@
+[
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "aliases": [],
+    "emails": []
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "aliases": [],
+    "emails": [
+      "Embassy.washington@mfa.gov.al"
+    ]
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "aliases": [],
+    "emails": [
+      "consular-section@algerianembassy.org"
+    ]
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "aliases": [],
+    "emails": [
+      "contact@andorraun.org"
+    ]
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "aliases": [],
+    "emails": [
+      "visa.consular@angola.org",
+      "sector-consular@angolaconsulate-tx.org",
+      "info@angolaconsulateny.org"
+    ]
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "aliases": [],
+    "emails": [
+      "embantbar@aol.com"
+    ]
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "aliases": [],
+    "emails": [
+      "eeeuu@mrecic.gov.ar",
+      "catla@mrecic.gov.ar",
+      "cchic@mrecic.gov.ar",
+      "chous@mrecic.gov.ar",
+      "clang@mrecic.gov.ar",
+      "cmiam@mrecic.gov.ar",
+      "cnyor@mrecic.gov.ar"
+    ]
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "aliases": [],
+    "emails": [
+      "armconsularusa@mfa.am"
+    ]
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "aliases": [],
+    "emails": [
+      "Consular.Washington@dfat.gov.au",
+      "consular.honolulu@dfat.gov.au",
+      "losangeles@dfat.gov.au",
+      "consular.newyork@dfat.gov.au"
+    ]
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "aliases": [],
+    "emails": [
+      "Washington-ka@bmeia.gv.at",
+      "los-angeles-gk@bmeia.gv.at",
+      "new-york-gk@bmeia.gv.at",
+      "san-francisco-ka@bmeia.gv.at"
+    ]
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "aliases": [],
+    "emails": [
+      "consul@azembassy.us",
+      "consul@azconsulatela.org",
+      "office@azconsulatela.org"
+    ]
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "aliases": [],
+    "emails": [
+      "info@consulateofthebahamasdc.com",
+      "laconsulate@bahamas.gov.bs",
+      "bcgmia@bellsouth.net",
+      "consulate@bahamasny.com"
+    ]
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "aliases": [],
+    "emails": [
+      "consulate@bahrainembassy.org",
+      "newyork.mission@mofa.gov.bh"
+    ]
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "aliases": [],
+    "emails": [
+      "bdcons.wing@gmail.com",
+      "contact@bdcgny.org"
+    ]
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "aliases": [],
+    "emails": [
+      "consnotbarbados@foreign.gov.bb",
+      "miami@foreign.gov.bb",
+      "newyork@foreign.gov.bb"
+    ]
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "aliases": [],
+    "emails": [
+      "usa@mfa.gov.by"
+    ]
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "aliases": [],
+    "emails": [
+      "Washington@diplobel.fed.be",
+      "atlanta@diplobel.fed.be",
+      "LosAngeles@diplobel.fed.be",
+      "NewYork@diplobel.fed.be"
+    ]
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "aliases": [],
+    "emails": [
+      "reception.usa@mfa.gov.bz",
+      "belizeconsulatela@mfa.gov.bz",
+      "consulatebelize@gmail.com"
+    ]
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "aliases": [],
+    "emails": [
+      "iambassade.washington@gouv.bj"
+    ]
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "aliases": [],
+    "emails": [
+      "consulate.pmbny@mfa.gov.bt"
+    ]
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia, Plurinational State of",
+    "aliases": [
+      "Bolivia"
+    ],
+    "emails": [
+      "consularnotification@boliviawdc.com",
+      "info@boliviatx.org",
+      "info@boliviala.org",
+      "info@boliviany.org"
+    ]
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "aliases": [],
+    "emails": [
+      "consularaffairs@bhembassy.org",
+      "bih.konzulat.chicago@gmail.com"
+    ]
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "aliases": [],
+    "emails": [
+      "info@botswanaembassy.org"
+    ]
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "aliases": [],
+    "emails": [
+      "cons.cgwashington@itamaraty.gov.br",
+      "cg.atlanta@itamaraty.gov.br",
+      "contato.boston@itamaraty.gov.br",
+      "central.chicago@itamaraty.gov.br",
+      "cghartford@itamaraty.gov.br",
+      "assistencia.houston@itamaraty.gov.br",
+      "sab.la@itamaraty.gov.br",
+      "cg.miami@itamaraty.gov.br",
+      "cg.novayork@itamaraty.gov.br",
+      "cg.sfrancisco@itamaraty.gov.brr"
+    ]
+  },
+  {
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "aliases": [
+      "Brunei"
+    ],
+    "emails": [
+      "info@bruneiembassy.org",
+      "Newyork.usa@mfa.gov.bn"
+    ]
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "aliases": [],
+    "emails": [
+      "consulate@bulgaria-embassy.org",
+      "Consulate.Chicago@mfa.bg",
+      "Consulate.LosAngeles@mfa.bg",
+      "Consulate.NewYork@mfa.bg"
+    ]
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "aliases": [],
+    "emails": [
+      "ambawdc@verizon.net",
+      "consulatbfny@gmail.com"
+    ]
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "aliases": [],
+    "emails": []
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "aliases": [
+      "Cape Verde"
+    ],
+    "emails": [
+      "embassy@caboverdeus.net"
+    ]
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "aliases": [],
+    "emails": [
+      "consular.camemb.usa@gmail.com"
+    ]
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "aliases": [],
+    "emails": [
+      "cs@cameroonembassyusa.org"
+    ]
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "aliases": [],
+    "emails": [
+      "ccs.scc@international.gc.ca"
+    ]
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "aliases": [],
+    "emails": [
+      "caf@usrcaembassy.org"
+    ]
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "aliases": [],
+    "emails": [
+      "firstsecretary@chadembassy.us"
+    ]
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "aliases": [],
+    "emails": [
+      "consnotchile@minrel.gov.cl",
+      "chicago@consulado.gob.cl",
+      "miami@consulado.gob.cl",
+      "cgchile.newyork@minrel.gob.cl",
+      "sanfrancisco@consulado.gob.cl"
+    ]
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "aliases": [],
+    "emails": [
+      "washington_lb@csm.mfa.gov.cn",
+      "chicago_lb@csm.mfa.gov.cn",
+      "la_lb@csm.mfa.gov.cn",
+      "ny_lb@csm.mfa.gov.cn",
+      "sf_lb@csm.mfa.gov.cn"
+    ]
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "aliases": [],
+    "emails": [
+      "cwashington@cancilleria.gov.co",
+      "catlanta@cancilleria.gov.co",
+      "cboston@cancilleria.gov.co",
+      "cchicago@cancilleria.gov.co",
+      "chouston@cancilleria.gov.co",
+      "closangeles@cancilleria.gov.co",
+      "cmiami@cancilleria.gov.co",
+      "cnewark@cancilleria.gov.co",
+      "cnuevayork@cancilleria.gov.co",
+      "corlando@cancilleria.gov.co",
+      "csanfrancisco@cancilleria.gov.co",
+      "csanjuan@cancilleria.gov.co"
+    ]
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "aliases": [],
+    "emails": [
+      "comoros@un.int"
+    ]
+  },
+  {
+    "code": "CG",
+    "name": "Congo",
+    "aliases": [
+      "Republic of the Congo"
+    ],
+    "emails": [
+      "consulate@ambacongo-us.org"
+    ]
+  },
+  {
+    "code": "CD",
+    "name": "Congo, Democratic Republic of the",
+    "aliases": [
+      "Congo the Democratic Republic of the",
+      "Democratic Republic of the Congo",
+      "DR Congo"
+    ],
+    "emails": []
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "aliases": [],
+    "emails": [
+      "concr-us-wa@rree.go.cr",
+      "concr-us-ga@rree.go.cr",
+      "concr-us-il@rree.go.cr",
+      "concr-us-tx@rree.go.cr",
+      "concr-us-ca2@rree.go.cr",
+      "consuladomiami@rree.go.cr",
+      "concr-us-ny@rree.go.cr"
+    ]
+  },
+  {
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "aliases": [
+      "Ivory Coast",
+      "Cote d'Ivoire"
+    ],
+    "emails": [
+      "info@ambacidc.org"
+    ]
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "aliases": [],
+    "emails": [
+      "crocons.washington@mvep.hr",
+      "crocons.chicago@mvep.hr",
+      "crocons.la@mvep.hr",
+      "crocons.newyork@mvep.hr"
+    ]
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "aliases": [],
+    "emails": [
+      "recepcion@usadc.embacuba.cu"
+    ]
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "aliases": [],
+    "emails": [
+      "washingtonconsulate@mfa.gov.cy",
+      "nyconsulate@mfa.gov.cy"
+    ]
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "aliases": [
+      "Czech Republic"
+    ],
+    "emails": [
+      "Washington.Consulate@mzv.gov.cz",
+      "Chicago.Consular.Section@mzv.gov.cz",
+      "LosAngeles@mzv.gov.cz",
+      "NewYork.Consulate@mzv.gov.cz"
+    ]
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "aliases": [],
+    "emails": [
+      "wasamb@um.dk",
+      "ordhkt@um.dk",
+      "hougkl@um.dk",
+      "nycgkl@um.dk",
+      "sjcgkl@um.dk"
+    ]
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "aliases": [],
+    "emails": [
+      "info@djiboutiembassyus.org"
+    ]
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "aliases": [],
+    "emails": [
+      "embdomdc@aol.com",
+      "dmaun@undp.org"
+    ]
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "aliases": [],
+    "emails": [
+      "consularnotification@us.serex.gov.do"
+    ]
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "aliases": [],
+    "emails": [
+      "eecuusa@cancilleria.gob.ec"
+    ]
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "aliases": [],
+    "emails": [
+      "consnot@egyptembassy.net",
+      "consulateofegyptchicago@gmail.com",
+      "consulateofegyptinhouston@gmail.com",
+      "egyconsulatela@egyconsulatela.com",
+      "egyptnyc@gmail.com"
+    ]
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "aliases": [],
+    "emails": [
+      "infoeeuu@rree.gob.sv",
+      "consuladoatlanta@rree.gob.sv",
+      "consuladoboston@rree.gob.sv",
+      "consuladochicago@rree.gob.sv",
+      "consuladodallas@rree.gob.sv",
+      "consuladosv-lasvegasnv@rree.gob.sv",
+      "consuladoesla@rree.gob.sv",
+      "consuladonyc@rree.gob.sv",
+      "consuladosanfrancisco@rree.gob.sv",
+      "consuladoseattle@rree.gob.sv",
+      "consuladovirginia@rree.gob.sv"
+    ]
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "aliases": [],
+    "emails": [
+      "consular@egembassydc.com"
+    ]
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "aliases": [],
+    "emails": [
+      "consular_washington@embassyeritrea.org"
+    ]
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "aliases": [],
+    "emails": [
+      "nyconsulate@mfa.ee",
+      "sfconsulate@mfa.ee"
+    ]
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "aliases": [
+      "Swaziland"
+    ],
+    "emails": [
+      "embassy@swaziland-usa.com"
+    ]
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "aliases": [],
+    "emails": [
+      "consular@ethiopianembassy.org",
+      "Info@ethioconsulatela.org",
+      "minnesota.consulate@mfa.gov.et"
+    ]
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "aliases": [],
+    "emails": [
+      "ambassador@fijiembassydc.com"
+    ]
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "aliases": [],
+    "emails": [
+      "sanomat.was@gov.fi"
+    ]
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "aliases": [],
+    "emails": [
+      "info.washington-fslt@diplomatie.gouv.fr",
+      "info.atlanta-fslt@diplomatie.gouv.fr",
+      "consulat.boston-cslt@diplomatie.gouv.fr",
+      "info.chicago-cslt@diplomatie.gouv.fr",
+      "infos.houston-fslt@diplomatie.gouv.fr",
+      "info.los-angeles-fslt@diplomatie.gouv.fr",
+      "francais.miami-fslt@diplomatie.gouv.fr",
+      "info@consulfrance-nouvelleorleans.org",
+      "info.new-york-cslt@diplomatie.gouv.fr",
+      "admin-francais.san-francisco-fslt@diplomatie.gouv.fr"
+    ]
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "aliases": [],
+    "emails": [
+      "info@gabonembassyusa.org"
+    ]
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "aliases": [],
+    "emails": [
+      "info@gambiaembassydc.gm",
+      "gambiaembassydc@gmail.com"
+    ]
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "aliases": [],
+    "emails": [
+      "washingtonconsulate@mfa.gov.ge",
+      "newyork.con@mfa.gov.ge",
+      "ConsulateSF@mfa.gov.ge"
+    ]
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "aliases": [],
+    "emails": []
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "aliases": [],
+    "emails": [
+      "info@ghanaembassydc.org",
+      "consular@ghanaconsulatenewyork.org"
+    ]
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "aliases": [],
+    "emails": [
+      "grcon.was@mfa.gr",
+      "grcon.atl@mfa.gr",
+      "grgencon.bos@mfa.gr",
+      "grgencon.cic@mfa.gr",
+      "grcon.hou@mfa.gr",
+      "grgencon.la@mfa.gr",
+      "grgencon.ny@mfa.grr",
+      "grgencon.sf@mfa.gr",
+      "grgencon.tam@mfa.gr"
+    ]
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "aliases": [],
+    "emails": [
+      "miami@mofa.gov.gd"
+    ]
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "aliases": [],
+    "emails": [
+      "consatlanta@minex.gob.gt",
+      "callcentchicago1@minex.gob.gt",
+      "consohio@minex.gob.gt",
+      "consdallas@minex.gob.gt",
+      "consdelrio@minex.gob.gt",
+      "consdenver@minex.gob.gt",
+      "conshouston@minex.gob.gt",
+      "conslakeworth@minex.gob.gt",
+      "conslosangeles@minex.gob.gt",
+      "consmcallen@minex.gob.gt",
+      "consmiami@minex.gob.gt",
+      "consnashville@minex.gob.gt",
+      "consnewyork@minex.gob.gt",
+      "consoklahoma@minex.gob.gt",
+      "consomaha@minex.gob.gt",
+      "consguatearizona@minex.gob.gt",
+      "consphiladelphia@minex.gob.gt",
+      "consrhodeisland@minex.gob.gt",
+      "consraleigh@minex.gob.gt",
+      "consriverhead@minex.gob.gt",
+      "consmaryland@minex.gob.gt",
+      "Conssanbernardino@minex.gob.gt",
+      "conssanfrancisco@minex.gob.gt",
+      "consseattle@gmail.com",
+      "constucson@minex.gob.gt"
+    ]
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "aliases": [],
+    "emails": []
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "aliases": [],
+    "emails": [
+      "guinea-bissau@un.int"
+    ]
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "aliases": [],
+    "emails": [
+      "guyanaembassydc@verizon.net",
+      "cgny@guyanaconsulatenewyork.org"
+    ]
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "aliases": [],
+    "emails": [
+      "cons.wash@diplomatie.ht",
+      "cg.atlanta@diplomatie.ht",
+      "Cg.boston@diplomatie.ht",
+      "Cg.chicago@diplomatie.ht",
+      "cons.orlando@diplomatie.ht",
+      "Cg.miami@diplomatie.ht",
+      "cg.newyork@diplomatie.ht"
+    ]
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "aliases": [],
+    "emails": [
+      "info@wadchn.com",
+      "info@consuladohnatl.com",
+      "info@consuladobostonhn.com",
+      "consuladohncharlotteproteccion@gmail.com",
+      "chicago@sre.gob.hn",
+      "hondurasdallas@hotmail.com",
+      "consuladohondurashouston@gmail.com",
+      "infoconsuladola@gmail.com",
+      "mcallen@sre.gob.hn",
+      "proteccionhn.miami@gmail.com",
+      "infonolahn@gmail.com",
+      "emergenciaconsuladony@gmail.com",
+      "consuladohnensanfrancisco@gmail.com",
+      "consuladoseattle@gmail.com"
+    ]
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "aliases": [],
+    "emails": [
+      "appointment.was@mfa.gov.hu",
+      "consulate.chi@mfa.gov.hu",
+      "mission.los@mfa.gov.hu",
+      "info.ny@mfa.gov.hu"
+    ]
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "aliases": [],
+    "emails": [
+      "washington@utn.is",
+      "hjalp@utn.is"
+    ]
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "aliases": [],
+    "emails": [
+      "fscpv.washington@mea.gov.in",
+      "info.houston@mea.gov.in"
+    ]
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "aliases": [],
+    "emails": [
+      "consular@indonesiachicago.org",
+      "pwni.bhi@kemlu.go.id",
+      "consular.la@kemlu.go.id",
+      "consular.newyork@kemlu.go.id",
+      "konsuler@kjrisfo.net"
+    ]
+  },
+  {
+    "code": "IR",
+    "name": "Iran, Islamic Republic of",
+    "aliases": [
+      "Iran"
+    ],
+    "emails": [
+      "info@daftar.org"
+    ]
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "aliases": [],
+    "emails": [
+      "consulate@iraqiembassy.us"
+    ]
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "aliases": [],
+    "emails": [
+      "WASHINGTONEmbassy@dfa.ie",
+      "atlantacg@dfa.ie",
+      "austincg@dfa.ie",
+      "bostoncongen@dfa.ie",
+      "chicagocongen@dfa.ie",
+      "losangelescg@dfa.ie",
+      "miamicgexternalemail@dfa.ie",
+      "NEWYORKConGen@dfa.ie",
+      "sanfrancgexternalemail@dfa.ie"
+    ]
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "aliases": [],
+    "emails": [
+      "consular@washington.mfa.gov.il",
+      "CONSULAR-SERVICES@ATLANTA.MFA.GOV.IL",
+      "consulardep@boston.mfa.gov.il",
+      "contactus@chicago.mfa.gov.il",
+      "consular.dep@houston.mfa.gov.il",
+      "consul@la.mfa.gov.il",
+      "consular.dep@miami.mfa.gov.il",
+      "consular.services@newyork.mfa.gov.il",
+      "consulardep@sf.mfa.gov.il"
+    ]
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "aliases": [],
+    "emails": [
+      "washington.notification@esteri.it",
+      "urp.boston@esteri.it",
+      "Italcons.Chicago@esteri.it",
+      "inform.detroit@esteri.it",
+      "assistenza.houston@esteri.it",
+      "consolato.losangeles@esteri.it",
+      "italianconsulate.miami@esteri.it",
+      "cg.newyork@esteri.it",
+      "urp.filadelfia@esteri.it",
+      "it.sanfrancisco@esteri.it"
+    ]
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "aliases": [],
+    "emails": [
+      "security@embassyofjamaica.org",
+      "info@jamaicanconsulateatlanta.org",
+      "info@jamaicanconsulateinLA.org",
+      "contactus@jamaicacgmiami.org",
+      "cro@congenjamaica-ny.org"
+    ]
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "aliases": [],
+    "emails": [
+      "emb-consulate.dc@ws.mofa.go.jp",
+      "cojsaipan@ag.mofa.go.jp"
+    ]
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "aliases": [],
+    "emails": [
+      "hkjconsular@jordanembassyus.org"
+    ]
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "aliases": [],
+    "emails": [
+      "consuldc@mfa.kz",
+      "consul.newyork@mfa.kz",
+      "sanfrancisco@mfa.kz"
+    ]
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "aliases": [],
+    "emails": [
+      "immigration@kenyaembassy.com",
+      "immigration@kenyaconsulatela.com"
+    ]
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "aliases": [],
+    "emails": [
+      "fsun@mfa.gov.ki"
+    ]
+  },
+  {
+    "code": "KP",
+    "name": "Korea, Democratic People's Republic of",
+    "aliases": [
+      "North Korea"
+    ],
+    "emails": []
+  },
+  {
+    "code": "KR",
+    "name": "Korea, Republic of",
+    "aliases": [
+      "South Korea"
+    ],
+    "emails": [
+      "consular.usa@mofa.go.kr"
+    ]
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "aliases": [],
+    "emails": [
+      "consulate@kuwaitembassy.us",
+      "info@kuwaitconsulate.org",
+      "kuwaitconsulateny@gmail.com"
+    ]
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "aliases": [],
+    "emails": [
+      "kgconsulate.washington@mfa.gov.kg"
+    ]
+  },
+  {
+    "code": "LA",
+    "name": "Lao People's Democratic Republic",
+    "aliases": [
+      "Laos"
+    ],
+    "emails": [
+      "embasslao@gmail.com"
+    ]
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "aliases": [],
+    "emails": [
+      "consulate.usa@mfa.gov.lv"
+    ]
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "aliases": [],
+    "emails": [
+      "consular@lebanonembassyus.org",
+      "info@lebanonconsulategdetroit.org",
+      "info@nylebcons.org"
+    ]
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "aliases": [],
+    "emails": [
+      "lesothoembassy@verizon.net"
+    ]
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "aliases": [],
+    "emails": [
+      "consular@liberianembassyus.org",
+      "Info@liberiaconsulate-ny.com"
+    ]
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "aliases": [],
+    "emails": [
+      "Consular.sec@embassyoflibyadc.com",
+      "lbyun@undp.org"
+    ]
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "aliases": [],
+    "emails": [
+      "washington@llv.li"
+    ]
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "aliases": [],
+    "emails": [
+      "consul.us@mfa.lt",
+      "kons.cikaga@urm.lt",
+      "kons.niujorkas@urm.lt"
+    ]
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "aliases": [],
+    "emails": [
+      "washington.consular@mae.etat.lu",
+      "newyork.consular@mae.etat.lu",
+      "sanfrancisco.cg@mae.etat.lu"
+    ]
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "aliases": [],
+    "emails": [
+      "Malagasy.embassy@verizon.net"
+    ]
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "aliases": [],
+    "emails": [
+      "malawidc@aol.com"
+    ]
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "aliases": [],
+    "emails": [
+      "consularwdc@kln.gov.my"
+    ]
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "aliases": [],
+    "emails": [
+      "info@maldivesmission.com"
+    ]
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "aliases": [],
+    "emails": [
+      "amaiga@maliembassy.us"
+    ]
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "aliases": [],
+    "emails": [
+      "maltaembassy.washington@gov.mt​"
+    ]
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "aliases": [],
+    "emails": [
+      "info@rmiembassyus.org"
+    ]
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "aliases": [],
+    "emails": [
+      "ambarimwash@gmail.com",
+      "mauritaniamission@gmail.com"
+    ]
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "aliases": [],
+    "emails": [
+      "washingtonemb@govmu.org"
+    ]
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "aliases": [],
+    "emails": [
+      "protealb02@sre.gob.mx",
+      "protealb03@sre.gob.mx",
+      "protealb04@sre.gob.mx",
+      "conatlanta@sre.gob.mx",
+      "proteccion@consulmexatlanta.org",
+      "conaustin@sre.gob.mx",
+      "proteccionatn07@sre.gob.mx",
+      "conboise@sre.gob.mx",
+      "proteccionboi@sre.gob.mx",
+      "cmxboston@sre.gob.mx",
+      "proteccionbos01@sre.gob.mx",
+      "conbrownsville@sre.gob.mx",
+      "infocalexico@sre.gob.mx",
+      "proteccioncal05@sre.gob.mx",
+      "proteccioncal@sre.gob.mx",
+      "conchicago@sre.gob.mx",
+      "infodallas@sre.gob.mx",
+      "protecciondallas@sre.gob.mx",
+      "condrio@sre.gob.mx",
+      "infodenver@sre.gob.mx",
+      "proteccionden@sre.gob.mx",
+      "detroit@sre.gob.mx",
+      "protecciondet02@sre.gob.mx",
+      "protecciondet01@sre.gob.mx",
+      "douglas@sre.gob.mx",
+      "protecciondou03@sre.gob.mx",
+      "eaglepass@sre.gob.mx",
+      "proteccioneag01@sre.gob.mx",
+      "proteccioneag02@sre.gob.mx",
+      "conepaso@sre.gob.mx",
+      "confresno@sre.gob.mx",
+      "proteccionfre05@sre.gob.mx",
+      "conhouston@sre.gob.mx",
+      "atencionpublicohou@sre.gob.mx",
+      "indianapolis@sre.gob.mx",
+      "proteccionini2@sre.gob.mx",
+      "proteccionini06@sre.gob.mx",
+      "conkansas@sre.gob.mx",
+      "proteccionkansas@sre.gob.mx",
+      "informacionlar@sre.gob.mx",
+      "conlvegas@sre.gob.mx",
+      "conlrock@sre.gob.mx",
+      "proteccionlir2@sre.gob.mx",
+      "proteccionlir03@sre.gob.mx",
+      "lapublico@sre.gob.mx",
+      "proteccionconlan09@sre.gob.mx",
+      "conmallen@sre.gob.mx",
+      "protmac01@sre.gob.mx",
+      "conmiami@sre.gob.mx",
+      "conmilwaukee@sre.gob.mx",
+      "prot1mke@sre.gob.mx",
+      "connbrunswick@sre.gob.mx",
+      "connorleans@sre.gob.mx",
+      "connyork@sre.gob.mx",
+      "connogales@sre.gob.mx",
+      "proteccionnog@sre.gob.mx",
+      "proteccionokl@sre.gob.mx",
+      "conomaha@sre.gob.mx",
+      "conorlando@sre.gob.mx",
+      "consuloxn@sre.gob.mx",
+      "proteoxn01@sre.gob.mx",
+      "proteoxn05@sre.gob.mx",
+      "confiladelfia@sre.gob.mx",
+      "proteccionfia04@sre.gob.mx",
+      "conphoenix@sre.gob.mx",
+      "penalespho@sre.gob.mx",
+      "conportland@sre.gob.mx",
+      "proteccionpot4@sre.gob.mx",
+      "conpresidio@sre.gob.mx",
+      "conraleigh@sre.gob.mx",
+      "proteccionrlg07@sre.gob.mx",
+      "consacramento@sre.gob.mx",
+      "proteccionsac01@sre.gob.mx",
+      "legalsacramento@sre.gob.mx",
+      "conspaul@sre.gob.mx",
+      "conslake@sre.gob.mx",
+      "proteccionsal01@sre.gob.mx",
+      "proteccionsal02@sre.gob.mx",
+      "infoconsulmexsan@sre.gob.mx",
+      "consbernardino@sre.gob.mx",
+      "consulmexsbd@sre.gob.mx",
+      "info@consulmexsd.org",
+      "proteccion@consulmexsd.org",
+      "consfrancisco@sre.gob.mx",
+      "consjose@sre.gob.mx",
+      "cgmexico-sanjuan@sre.gob.mx",
+      "consana@sre.gob.mx",
+      "proteccionsta@sre.gob.mx",
+      "conseattle@sre.gob.mx",
+      "proteccionsea@sre.gob.mx",
+      "contucson@sre.gob.mx",
+      "penaltuc@sre.gob.mx",
+      "conyuma@sre.gob.mx",
+      "conwashington@sre.gob.mx",
+      "proteccionwas@sre.gob.mx"
+    ]
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia, Federated States of",
+    "aliases": [
+      "Micronesia"
+    ],
+    "emails": [
+      "dcmission@fsmembassy.fm",
+      "fsmcghnl@aol.com",
+      "cg.portland@gov.fm",
+      "fsm@teleguam.net"
+    ]
+  },
+  {
+    "code": "MD",
+    "name": "Moldova, Republic of",
+    "aliases": [
+      "Moldova"
+    ],
+    "emails": [
+      "washington@mfa.gov.md"
+    ]
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "aliases": [],
+    "emails": [
+      "embassy@monacodc.org",
+      "info@monaco-consulate.com"
+    ]
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "aliases": [],
+    "emails": [
+      "monconsul@mongolianembassy.us",
+      "newyork@mfa.gov.mn",
+      "sanfrancisco@mfa.gov.mn",
+      "info@mongolianconsulate.us"
+    ]
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "aliases": [],
+    "emails": [
+      "consulate.newyork@mfa.gov.me"
+    ]
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "aliases": [],
+    "emails": [
+      "2011morocco@gmail.com",
+      "info@moroccanconsulate.com"
+    ]
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "aliases": [],
+    "emails": [
+      "washington.dc@embamoc.gov.mz"
+    ]
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "aliases": [
+      "Burma"
+    ],
+    "emails": [
+      "consularservices@mewashingtondc.org",
+      "myancgla@gmail.com",
+      "lamyanmarconsulate@gmail.com",
+      "myanmarmission@verizon.net"
+    ]
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "aliases": [],
+    "emails": [
+      "info@namibiaembassyusa.org"
+    ]
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "aliases": [],
+    "emails": [
+      "nauru@onecommonwealth.org"
+    ]
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "aliases": [],
+    "emails": [
+      "consular@nepalembassyusa.org"
+    ]
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "aliases": [],
+    "emails": [
+      "was-ca@minbuza.nl",
+      "atl-ca@minbuza.nl",
+      "chi@minbuza.nl",
+      "nyc@minbuza.nl",
+      "sfn@minbuza.nl"
+    ]
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "aliases": [],
+    "emails": [
+      "WSHInfo@mfat.govt.nz",
+      "nzcg.la@mfat.net",
+      "HLUenquiries@mfat.govt.nz",
+      "newyorkconsulate@nzte.govt.nz"
+    ]
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "aliases": [],
+    "emails": [
+      "consularnotification.nic@embanic.org"
+    ]
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "aliases": [],
+    "emails": [
+      "communication@embassyofniger-usa.org"
+    ]
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "aliases": [],
+    "emails": [
+      "info@nigeriaembassyusa.org",
+      "info@nigeria-consulate-atl.org",
+      "cgnny@nigeriahouse.com"
+    ]
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "aliases": [
+      "Macedonia"
+    ],
+    "emails": [
+      "washington@mfa.gov.mk",
+      "detroit@mfa.gov.mk",
+      "cg.newyork@mfa.gov.mk"
+    ]
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "aliases": [],
+    "emails": [
+      "emb.washington@mfa.no",
+      "cg.newyork@mfa.no",
+      "cg.san.francisco@mfa.no"
+    ]
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "aliases": [],
+    "emails": [
+      "washington@fm.gov.om"
+    ]
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "aliases": [],
+    "emails": [
+      "consularsection@embassyofpakistanusa.org",
+      "pakistan@tiac.net",
+      "deputyconsulgeneral@cgpkchicago.org",
+      "parephouston@sbcglobal.net",
+      "dcg@pakconsulatela.org"
+    ]
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "aliases": [],
+    "emails": [
+      "info@palauembassy.org"
+    ]
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "aliases": [],
+    "emails": [
+      "consular@embassyofpanama.org",
+      "ggarcia@mire.gob.pa",
+      "info@consuladodepanamaenmiami.com",
+      "info@consulateofpanama.com",
+      "info@nyconsul.com",
+      "georgia@foreignconsulate.com",
+      "consutampapty@gmail.com"
+    ]
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "aliases": [],
+    "emails": [
+      "info@pngembassy.org"
+    ]
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "aliases": [],
+    "emails": [
+      "eeuuembaparsc@mre.gov.py",
+      "losangelescongralpar@mre.gov.py",
+      "miamicongralpar@mre.gov.py",
+      "info@consulparny.com"
+    ]
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "aliases": [],
+    "emails": [
+      "consulado@conperdc.org",
+      "info@consulperuatlanta.com",
+      "consuladogeneral@conperboston.com",
+      "central@conperch.com",
+      "consulado@conperdallas.com",
+      "conperdenver@consuladoperu.net",
+      "peru@consuladohartford.com",
+      "conperu@sbcglobal.net",
+      "conperla@conperla.org",
+      "informacion@consulado-peru.com",
+      "consuladony@consuladoperuny.org",
+      "consulado@conpernj.org",
+      "informacion@conpersf.com"
+    ]
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "aliases": [],
+    "emails": [
+      "atn@phembassy-us.org",
+      "agana.pcg@dfa.gov.ph",
+      "pcgagana@gmail.com",
+      "chicagopcg@att.net",
+      "honolulu.pcg@dfa.gov.ph",
+      "houston.pcg@dfa.gov.ph",
+      "losangeles.pcg@dfa.gov.ph",
+      "newyork.pcg@dfa.gov.ph",
+      "sanfrancisco.pcg@dfa.gov.ph"
+    ]
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "aliases": [],
+    "emails": [
+      "waszyngton.amb.wk@msz.gov.pl",
+      "chicago.kg.sekretariat@msz.gov.pl",
+      "houston.kg.sekretariat@msz.gov.pl",
+      "la.polishconsulate@msz.gov.pl",
+      "nowyjork.kg.sekretariat@msz.gov.pl"
+    ]
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "aliases": [],
+    "emails": [
+      "c.notification@embport.org",
+      "consulado.boston@mne.pt",
+      "consulado.newbedford@mne.pt",
+      "consulado.newyork@mne.pt",
+      "consulado.newark@mne.pt",
+      "providence@mne.pt",
+      "sfrancisco@mne.pt"
+    ]
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "aliases": [],
+    "emails": [
+      "consular.dc@mofa.gov.qa",
+      "Houston@mofa.gov.qa",
+      "aalhathout@mofa.gov.qa",
+      "losangeles@mofa.gov.qa",
+      "newyork@mofa.gov.qa"
+    ]
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "aliases": [],
+    "emails": [
+      "washington@mae.ro",
+      "chicago@mae.ro",
+      "losangeles@mae.ro",
+      "miami@mae.ro",
+      "newyork@mae.ro"
+    ]
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "aliases": [
+      "Russia"
+    ],
+    "emails": [
+      "russconswdc@gmail.com",
+      "detention@rusconshouston.org"
+    ]
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "aliases": [],
+    "emails": [
+      "info@rwandaembassy.org",
+      "rwaun@undp.org"
+    ]
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "aliases": [],
+    "emails": [
+      "stkittsnevis@embskn.com"
+    ]
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "aliases": [],
+    "emails": [
+      "embassydc@gosl.gov.lc",
+      "info@stluciamission.org"
+    ]
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "aliases": [],
+    "emails": [
+      "mail@embsvg.com",
+      "svgmission@gmail.com"
+    ]
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "aliases": [],
+    "emails": [
+      "samoanymission@outlook.com"
+    ]
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "aliases": [],
+    "emails": [
+      "smrassistant@gmail.com"
+    ]
+  },
+  {
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "aliases": [
+      "São Tomé and Príncipe"
+    ],
+    "emails": [
+      "rdstppmun@gmail.com"
+    ]
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "aliases": [],
+    "emails": [
+      "Uscon@mofa.gov.sa",
+      "ustxcon@mofa.gov.sa",
+      "uscacon@mofa.gov.sa",
+      "usnycon@mofa.gov.sa"
+    ]
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "aliases": [],
+    "emails": [
+      "contact@ambasenegal-us.org"
+    ]
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "aliases": [],
+    "emails": [
+      "consular@serbiaembusa.org",
+      "srb.cons.chicago@mfa.rs",
+      "consulate.newyork@mfa.rs"
+    ]
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "aliases": [],
+    "emails": []
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "aliases": [],
+    "emails": [
+      "info@embassyofsierraleone.net"
+    ]
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "aliases": [],
+    "emails": [
+      "singemb_was@mfa.sg",
+      "singcon_nyc@mfa.sg",
+      "singcg_sfo@mfa.sg"
+    ]
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "aliases": [],
+    "emails": [
+      "cons.washington@mzv.sk",
+      "cg.newyork@mzv.sk"
+    ]
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "aliases": [],
+    "emails": [
+      "sloembassy.washington@gov.si",
+      "sloconsulate.cleveland@gov.si"
+    ]
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "aliases": [],
+    "emails": [
+      "simun@solomons.com"
+    ]
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "aliases": [],
+    "emails": [
+      "info@somaliembassydc.net",
+      "somalia@un.int"
+    ]
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "aliases": [],
+    "emails": [
+      "consular.wa@dirco.gov.za",
+      "consular.la@dirco.gov.za",
+      "Consular.NY@dirco.gov.za"
+    ]
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "aliases": [],
+    "emails": [
+      "consularofficedc@gmail.com"
+    ]
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "aliases": [],
+    "emails": [
+      "cog.washington@maec.es",
+      "cog.boston@maec.es",
+      "cog.chicago@maec.es",
+      "cog.houston@maec.es",
+      "cog.losangeles@maec.es",
+      "cog.miami@maec.es",
+      "cog.nuevayork@maec.es",
+      "cog.sanfrancisco@maec.es",
+      "cog.sanjuandepuertorico@maec.es"
+    ]
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "aliases": [],
+    "emails": [
+      "slembassy@slembassyusa.org",
+      "slcg.losangeles@mfa.gov.lk",
+      "mail@slmission.com"
+    ]
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "aliases": [],
+    "emails": [
+      "consular@sudanembassy.org",
+      "sudan@sudanmission.org"
+    ]
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "aliases": [],
+    "emails": []
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "aliases": [],
+    "emails": [
+      "ambassaden.washington@gov.se",
+      "anchorage@consulateofsweden.org",
+      "atlanta@consulateofsweden.org",
+      "boston@consulateofsweden.org",
+      "chicago@consulateofsweden.org",
+      "cleveland@consulateofsweden.org",
+      "dallas@consulateofsweden.org",
+      "denver@consulateofsweden.org",
+      "fortlauderdale@consulateofsweden.org",
+      "honolulu@consulateofsweden.org",
+      "houston@consulateofsweden.org",
+      "jamestown@consulateofsweden.org",
+      "losangeles@consulateofsweden.org",
+      "minneapolis@consulateofsweden.org",
+      "neworleans@consulateofsweden.org",
+      "generalkonsulat.new-york@gov.se",
+      "philadelphia@consulateofsweden.org",
+      "phoenix@consulateofsweden.org",
+      "raleigh@consulateofsweden.org",
+      "saltlakecity@consulateofsweden.org",
+      "sanfrancisco@gov.se",
+      "sanjuan@consulateofsweden.org",
+      "seattle@consulateofsweden.org",
+      "stlouis@consulateofsweden.org"
+    ]
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "aliases": [],
+    "emails": [
+      "washington@eda.admin.ch",
+      "atlanta@eda.admin.ch",
+      "newyork@eda.admin.ch",
+      "chicago@eda.admin.ch",
+      "sanfrancisco.kanzlei@eda.admin.ch"
+    ]
+  },
+  {
+    "code": "SY",
+    "name": "Syrian Arab Republic",
+    "aliases": [
+      "Syria"
+    ],
+    "emails": [
+      "Info@syrian-consulate.ca"
+    ]
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "aliases": [],
+    "emails": [
+      "tajemus@mfa.tj",
+      "tajikistan@verizon.net"
+    ]
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania, United Republic of",
+    "aliases": [
+      "Tanzania"
+    ],
+    "emails": [
+      "ubalozi@tanzaniaembassy-us.org"
+    ]
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "aliases": [],
+    "emails": [
+      "consular@thaiembdc.org",
+      "info@thaiconsulatechicago.org",
+      "protection@thaiconsulatela.org",
+      "info@thaicgny.com"
+    ]
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "aliases": [
+      "East Timor"
+    ],
+    "emails": [
+      "ConSec@timorlesteembassy.org",
+      "timor-leste@un.int"
+    ]
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "aliases": [],
+    "emails": [
+      "info@togoembassy.us"
+    ]
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "aliases": [],
+    "emails": [
+      "consulategeneraloftonga@gmail.com",
+      "tongaconsnot@gmail.com"
+    ]
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "aliases": [],
+    "emails": [
+      "embdcinfo@foreign.gov.tt",
+      "consulatemiami@foreign.gov.tt",
+      "cgnyconsulateinfo@foreign.gov.tt"
+    ]
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "aliases": [],
+    "emails": [
+      "consular@tunisianembassy.org"
+    ]
+  },
+  {
+    "code": "TR",
+    "name": "Türkiye",
+    "aliases": [
+      "Turkey"
+    ],
+    "emails": [
+      "embassy.washingtondc@mfa.gov.tr",
+      "consulate.boston@mfa.gov.tr",
+      "consulate.chicago@mfa.gov.tr",
+      "consulate.houston@mfa.gov.tr",
+      "consulate.losangeles@mfa.gov.tr",
+      "consulate.miami@mfa.gov.tr",
+      "consulate.newyork@mfa.gov.tr"
+    ]
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "aliases": [],
+    "emails": [
+      "turkmenembassyus@verizon.net"
+    ]
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "aliases": [],
+    "emails": [
+      "tuvalumission.un@gmail.com"
+    ]
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "aliases": [],
+    "emails": [
+      "washington@mofa.go.ug and info@ugandaembassyus.org"
+    ]
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "aliases": [],
+    "emails": [
+      "consul_us@mfa.gov.ua",
+      "gc_usc@mfa.gov.ua",
+      "gc_ush@mfa.gov.ua",
+      "gc_usn@mfa.gov.ua",
+      "gc_uss@mfa.gov.ua"
+    ]
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "aliases": [],
+    "emails": [
+      "consulatedc@uaeembassy-usa.org",
+      "houstoncon@mofa.gov.ae",
+      "uaeinla@gmail.com",
+      "nycon@uaeconsulate-usa.org"
+    ]
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "aliases": [
+      "UK",
+      "United Kingdom"
+    ],
+    "emails": [
+      "UKinAtlanta@fco.gov.uk",
+      "UKinBoston@fco.gov.uk",
+      "UKinChicago@fco.gov.uk",
+      "UKinHouston@fco.gov.uk",
+      "Ukinlosangeles@fcdo.gov.uk",
+      "UKinFlorida@fco.gov.uk",
+      "UKinNewYork@fco.gov.uk",
+      "UK.inSF@fcdo.gov.uk",
+      "ukin.washington@fcdo.gov.uk"
+    ]
+  },
+  {
+    "code": "US",
+    "name": "United States of America",
+    "aliases": [
+      "USA",
+      "United States"
+    ],
+    "emails": []
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "aliases": [],
+    "emails": [
+      "cdwashington@mrree.gub.uy",
+      "cgmiami@mrree.gub.uy",
+      "cgnuevayork@mrree.gub.uy",
+      "cgsanfrancisco@mrree.gub.uy"
+    ]
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "aliases": [],
+    "emails": [
+      "uzbekconsul.org@gmail.com"
+    ]
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "aliases": [],
+    "emails": [
+      "vanunmis@aol.com"
+    ]
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela, Bolivarian Republic of",
+    "aliases": [
+      "Venezuela"
+    ],
+    "emails": [
+      "consnot@state.gov"
+    ]
+  },
+  {
+    "code": "VN",
+    "name": "Viet Nam",
+    "aliases": [
+      "Vietnam"
+    ],
+    "emails": [
+      "vanphong@vietnamembassy.us",
+      "dcconsular@vietnamembassy.us",
+      "vnconsulate1102@gmail.com",
+      "lanhsuquan.newyork@gmail.com",
+      "mailin@vietnamconsulate-sf.org"
+    ]
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "aliases": [],
+    "emails": []
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "aliases": [],
+    "emails": [
+      "consular@zambiaembassy.org"
+    ]
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "aliases": [],
+    "emails": [
+      "consular@zimembassydc.org"
+    ]
+  },
+  {
+    "code": "VA",
+    "name": "Holy See",
+    "aliases": [
+      "Vatican",
+      "Vatican City"
+    ],
+    "emails": [
+      "nuntiususa@nuntiususa.org"
+    ]
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan, Province of China",
+    "aliases": [
+      "Taiwan"
+    ],
+    "emails": [
+      "consul.tecro@mofa.gov.tw"
+    ]
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "aliases": [],
+    "emails": [
+      "consulate.iowa@rks-gov.net",
+      "consulategeneral.ny@rks-gov.net"
+    ]
+  }
+]
