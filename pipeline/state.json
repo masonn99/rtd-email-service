@@ -1,0 +1,3181 @@
+{
+  "version": 1,
+  "processed_message_ids": [
+    "<00f201db6da9$d97362c0$8c5a2840$@serbiaembusa.org>",
+    "<11795eaffb384987a6054207d22b80ce@npra.gov.bh>",
+    "<1615067869.72171293.1737407394320.JavaMail.zimbra@gosl.gov.lc>",
+    "<1739419503.759056.1737041920068@mail.yahoo.com>",
+    "<1aad7543-2ef7-42af-9ec7-847fcfcd6a38@usaconsul.ru>",
+    "<485f43c62f7a0a7fac34dae256ee1661@algerianembassy.org>",
+    "<67890e03.050a0220.8acb4.f1db.GMR@mx.google.com>",
+    "<67890e41.050a0220.1eee7a.8a22.GMR@mx.google.com>",
+    "<67891649.170a0220.d36d1.5193.GMR@mx.google.com>",
+    "<67893924.170a0220.f4763.adb3.GMR@mx.google.com>",
+    "<67896f91.170a0220.387063.2b09.GMR@mx.google.com>",
+    "<6789708e.170a0220.3a9feb.08c8.GMR@mx.google.com>",
+    "<67897310.170a0220.38e398.0398.GMR@mx.google.com>",
+    "<67897aee.050a0220.1bfaac.01a1.GMR@mx.google.com>",
+    "<678ac894.170a0220.195a90.6aa9.GMR@mx.google.com>",
+    "<678adb4c.050a0220.2e00bd.ca77.GMR@mx.google.com>",
+    "<678b6dda.050a0220.3280e2.73a8.GMR@mx.google.com>",
+    "<678b6e12.050a0220.13a2b.80e5.GMR@mx.google.com>",
+    "<678b6ed2.170a0220.3b661c.86de.GMR@mx.google.com>",
+    "<678b6fd2.050a0220.33652e.5523.GMR@mx.google.com>",
+    "<678b7085.170a0220.653c2.a1c7.GMR@mx.google.com>",
+    "<678b72ab.050a0220.79be8.9779.GMR@mx.google.com>",
+    "<678c2735.050a0220.3dc40e.9836.GMR@mx.google.com>",
+    "<678c2baa.170a0220.2dc253.170b.GMR@mx.google.com>",
+    "<678cdd46.050a0220.1c6c7b.a25c.GMR@mx.google.com>",
+    "<678ce0ba.050a0220.86d56.af5d.GMR@mx.google.com>",
+    "<678cfc87.050a0220.2c949a.d9e6.GMR@mx.google.com>",
+    "<678d922c.050a0220.90173.58d1.GMR@mx.google.com>",
+    "<678db62a.050a0220.2c2b7.3eaa.GMR@mx.google.com>",
+    "<678e1a3a.050a0220.55340.c9ec.GMR@mx.google.com>",
+    "<678e3313.050a0220.2d5272.09ce.GMR@mx.google.com>",
+    "<678e3a5b.050a0220.30fb08.cba6.GMR@mx.google.com>",
+    "<678f8839.050a0220.15ee.01ae.GMR@mx.google.com>",
+    "<678f924d.050a0220.96d2a.c636.GMR@mx.google.com>",
+    "<678fc824.c80a0220.2c38f7.bc7a.GMR@mx.google.com>",
+    "<74dacf86-ccb4-46cb-bb23-ec1fbb968fe0@usaconsul.ru>",
+    "<7e60c899d48d488ea320b7d8380b8707@llv.li>",
+    "<CAF_q5Hz8FoTJKJ9RJXv7XE_DS_ppeyhbrBZap_kabY4hedWNtQ@mail.gmail.com>",
+    "<CAFjf5F53Avathwr_uW8=DmOU010TSoyUvtyasofuMWmQj+S40w@mail.gmail.com>",
+    "<DB3P192MB212921BE321519D356BE3AF2B8E12@DB3P192MB2129.EURP192.PROD.OUTLOOK.COM>",
+    "<PH0PR12MB7790AB62240C1352CFB20C38EF1A2@PH0PR12MB7790.namprd12.prod.outlook.com>",
+    "<SA1PR22MB41471A6AD9F428E8687C36D3ECE62@SA1PR22MB4147.namprd22.prod.outlook.com>",
+    "<b0462d52ae2f93a7b9c4203ba4ebb4c5@nigeriaembassyusa.org>",
+    "<cbec40d6c30743108875dd8837c57e55@mfa.kz>",
+    "<e2ccac3f921c4d648ba67908c648de34@mrree.gub.uy>"
+  ],
+  "countries": {
+    "AD": {
+      "code": "AD",
+      "name": "Andorra",
+      "display": "Andorra",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "contact@andorraun.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "contact@andorraun.org",
+          "sent_at": "2025-01-16T07:43:45+00:00",
+          "message_id": "<6788b8b1.a70a0220.87d4e.c581@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "contact@andorraun.org",
+          "sent_at": "2026-11-25T17:39:31+00:00",
+          "message_id": "<179562832555.2248.17295223318376548930@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:39:31+00:00",
+      "send_now": false
+    },
+    "AF": {
+      "code": "AF",
+      "name": "Afghanistan",
+      "display": "Afghanistan",
+      "status": "queued",
+      "candidate_emails": [],
+      "attempts": [],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "AG": {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "display": "Antigua and Barbuda",
+      "status": "pr_open",
+      "candidate_emails": [
+        {
+          "email": "embantbar@aol.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "embantbar@aol.com",
+          "sent_at": "2025-01-16T07:46:34+00:00",
+          "message_id": "<6788b95a.050a0220.251999.c623@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": {
+        "visaRequirement": "E-Visa",
+        "duration": "",
+        "notes": "Antigua and Barbuda recognizes the US Refugee Travel Document, but holders are required to apply for an electronic visa (eVisa) prior to travel.",
+        "evidence": "However, holders of this document are required to apply for an electronic visa (eVisa) in order to enter the country.",
+        "confidence": 1.0,
+        "from_domain": "ab.gov.ag",
+        "received_at": "2025-01-16T15:15:43+00:00"
+      },
+      "review_reason": null,
+      "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "AO": {
+      "code": "AO",
+      "name": "Angola",
+      "display": "Angola",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "visa.consular@angola.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "sector-consular@angolaconsulate-tx.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@angolaconsulateny.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "visa.consular@angola.org",
+          "sent_at": "2025-01-16T07:45:33+00:00",
+          "message_id": "<6788b91d.170a0220.1a1dcb.0424@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "sector-consular@angolaconsulate-tx.org",
+          "sent_at": "2026-11-25T17:40:17+00:00",
+          "message_id": "<179562837138.2248.17086277761265040220@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:40:17+00:00",
+      "send_now": false
+    },
+    "AZ": {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "display": "Azerbaijan",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consul@azembassy.us",
+          "source": "state.gov"
+        },
+        {
+          "email": "consul@azconsulatela.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "office@azconsulatela.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consul@azembassy.us",
+          "sent_at": "2025-01-16T09:06:13+00:00",
+          "message_id": "<6788cc05.170a0220.36770b.9770@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "consul@azconsulatela.org",
+          "sent_at": "2026-11-25T17:41:02+00:00",
+          "message_id": "<179562841716.2248.13548279734941956330@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:41:02+00:00",
+      "send_now": false
+    },
+    "BA": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "display": "Bosnia and Herzegovina",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consularaffairs@bhembassy.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "bih.konzulat.chicago@gmail.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consularaffairs@bhembassy.org",
+          "sent_at": "2025-01-16T14:14:47+00:00",
+          "message_id": "<67891457.050a0220.37a7c6.207f@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "bih.konzulat.chicago@gmail.com",
+          "sent_at": "2026-11-25T17:44:05+00:00",
+          "message_id": "<179562860011.2248.8749022819834879920@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:44:05+00:00",
+      "send_now": false
+    },
+    "BB": {
+      "code": "BB",
+      "name": "Barbados",
+      "display": "Barbados",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consnotbarbados@foreign.gov.bb",
+          "source": "state.gov"
+        },
+        {
+          "email": "miami@foreign.gov.bb",
+          "source": "state.gov"
+        },
+        {
+          "email": "newyork@foreign.gov.bb",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consnotbarbados@foreign.gov.bb",
+          "sent_at": "2025-01-16T09:10:27+00:00",
+          "message_id": "<6788cd03.050a0220.378c23.c62e@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "miami@foreign.gov.bb",
+          "sent_at": "2026-11-25T17:41:48+00:00",
+          "message_id": "<179562846294.2248.14905632804673407119@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:41:48+00:00",
+      "send_now": false
+    },
+    "BF": {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "display": "Burkina Faso",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "ambawdc@verizon.net",
+          "source": "state.gov"
+        },
+        {
+          "email": "consulatbfny@gmail.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "ambawdc@verizon.net",
+          "sent_at": "2025-01-16T16:45:38+00:00",
+          "message_id": "<678937b2.170a0220.1b45bb.765f@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "consulatbfny@gmail.com",
+          "sent_at": "2026-11-25T17:46:23+00:00",
+          "message_id": "<179562873744.2248.10737076878652148514@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:46:23+00:00",
+      "send_now": false
+    },
+    "BG": {
+      "code": "BG",
+      "name": "Bulgaria",
+      "display": "Bulgaria",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consulate@bulgaria-embassy.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "Consulate.Chicago@mfa.bg",
+          "source": "state.gov"
+        },
+        {
+          "email": "Consulate.LosAngeles@mfa.bg",
+          "source": "state.gov"
+        },
+        {
+          "email": "Consulate.NewYork@mfa.bg",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consulate@bulgaria-embassy.org",
+          "sent_at": "2025-01-16T16:44:36+00:00",
+          "message_id": "<67893774.a70a0220.3ef4e.6d00@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "Consulate.Chicago@mfa.bg",
+          "sent_at": "2026-11-25T17:45:37+00:00",
+          "message_id": "<179562869164.2248.9111797941259942187@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:45:37+00:00",
+      "send_now": false
+    },
+    "BH": {
+      "code": "BH",
+      "name": "Bahrain",
+      "display": "Bahrain",
+      "status": "pr_open",
+      "candidate_emails": [
+        {
+          "email": "consulate@bahrainembassy.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "newyork.mission@mofa.gov.bh",
+          "source": "state.gov"
+        },
+        {
+          "email": "evisa@npra.gov.bh",
+          "source": "gmail_sent"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consulate@bahrainembassy.org",
+          "sent_at": "2025-01-16T09:08:24+00:00",
+          "message_id": "<6788cc88.170a0220.a3039.86bf@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "evisa@npra.gov.bh",
+          "sent_at": "2025-06-01T23:58:41+00:00",
+          "message_id": "<CALnNR01yMVd=F19JVXhSzg=CumowpgUH5KWD53YZdfE-htGp_Q@mail.gmail.com>",
+          "kind": "retry",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": {
+        "visaRequirement": "Does not recognize US issued Refugee Travel Document",
+        "duration": "",
+        "notes": "The embassy stated that the visa system does not accept travel documents and directed to check the website.",
+        "evidence": "Please note that the visa system does not accept travel document . kindly review the requirment through  www.evisa.gov.bh",
+        "confidence": 0.95,
+        "from_domain": "npra.gov.bh",
+        "received_at": "2025-06-02T05:48:27+00:00"
+      },
+      "review_reason": null,
+      "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "BI": {
+      "code": "BI",
+      "name": "Burundi",
+      "display": "Burundi",
+      "status": "queued",
+      "candidate_emails": [],
+      "attempts": [],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "BJ": {
+      "code": "BJ",
+      "name": "Benin",
+      "display": "Benin",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "iambassade.washington@gouv.bj",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "iambassade.washington@gouv.bj",
+          "sent_at": "2025-01-16T13:47:44+00:00",
+          "message_id": "<67890e00.630a0220.26b5fe.1d16@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00"
+    },
+    "BN": {
+      "code": "BN",
+      "name": "Brunei Darussalam",
+      "display": "Brunei",
+      "status": "needs_review",
+      "candidate_emails": [
+        {
+          "email": "info@bruneiembassy.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "Newyork.usa@mfa.gov.bn",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@bruneiembassy.org",
+          "sent_at": "2025-01-16T16:43:35+00:00",
+          "message_id": "<67893737.170a0220.1839ea.96a3@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": "Embassy asked: Kindly please share with us your passport scan copy.",
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "BO": {
+      "code": "BO",
+      "name": "Bolivia, Plurinational State of",
+      "display": "Bolivia",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consularnotification@boliviawdc.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@boliviatx.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@boliviala.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@boliviany.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consularnotification@boliviawdc.com",
+          "sent_at": "2025-01-16T14:06:25+00:00",
+          "message_id": "<67891261.630a0220.12639f.2b1e@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "info@boliviatx.org",
+          "sent_at": "2026-11-25T17:43:20+00:00",
+          "message_id": "<179562855441.2248.17789566293593121668@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:43:20+00:00",
+      "send_now": false
+    },
+    "BT": {
+      "code": "BT",
+      "name": "Bhutan",
+      "display": "Bhutan",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consulate.pmbny@mfa.gov.bt",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consulate.pmbny@mfa.gov.bt",
+          "sent_at": "2025-01-16T13:48:46+00:00",
+          "message_id": "<67890e3e.050a0220.1cbfe1.0e67@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00"
+    },
+    "BW": {
+      "code": "BW",
+      "name": "Botswana",
+      "display": "Botswana",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@botswanaembassy.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@botswanaembassy.org",
+          "sent_at": "2025-01-16T14:15:49+00:00",
+          "message_id": "<67891495.170a0220.2514d5.3439@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "info@botswanaembassy.org",
+          "sent_at": "2026-11-25T17:44:51+00:00",
+          "message_id": "<179562864589.2248.14114585864903796725@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:44:51+00:00",
+      "send_now": false
+    },
+    "BZ": {
+      "code": "BZ",
+      "name": "Belize",
+      "display": "Belize",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "reception.usa@mfa.gov.bz",
+          "source": "state.gov"
+        },
+        {
+          "email": "belizeconsulatela@mfa.gov.bz",
+          "source": "state.gov"
+        },
+        {
+          "email": "consulatebelize@gmail.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "reception.usa@mfa.gov.bz",
+          "sent_at": "2025-01-16T09:13:49+00:00",
+          "message_id": "<6788cdcd.170a0220.132e6.808b@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "belizeconsulatela@mfa.gov.bz",
+          "sent_at": "2026-11-25T17:42:34+00:00",
+          "message_id": "<179562850866.2248.5929122729090225359@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:42:34+00:00",
+      "send_now": false
+    },
+    "CD": {
+      "code": "CD",
+      "name": "Congo, Democratic Republic of the",
+      "display": "the Democratic Republic of the Congo",
+      "status": "queued",
+      "candidate_emails": [],
+      "attempts": [],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "CF": {
+      "code": "CF",
+      "name": "Central African Republic",
+      "display": "Central African Republic",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "caf@usrcaembassy.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "caf@usrcaembassy.org",
+          "sent_at": "2025-01-16T16:51:46+00:00",
+          "message_id": "<67893922.170a0220.d4a19.b476@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00"
+    },
+    "CG": {
+      "code": "CG",
+      "name": "Congo",
+      "display": "Congo",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consulate@ambacongo-us.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consulate@ambacongo-us.org",
+          "sent_at": "2025-01-16T20:33:25+00:00",
+          "message_id": "<67896d15.170a0220.6a897.7bc1@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "CI": {
+      "code": "CI",
+      "name": "Côte d'Ivoire",
+      "display": "Côte d'Ivoire",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@ambacidc.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@ambacidc.org",
+          "sent_at": "2025-01-16T20:41:55+00:00",
+          "message_id": "<67896f13.050a0220.bcbd.6b13@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "CM": {
+      "code": "CM",
+      "name": "Cameroon",
+      "display": "Cameroon",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "cs@cameroonembassyusa.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "cs@cameroonembassyusa.org",
+          "sent_at": "2025-01-16T16:48:42+00:00",
+          "message_id": "<6789386a.630a0220.c739.7607@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "cs@cameroonembassyusa.org",
+          "sent_at": "2026-11-25T17:47:54+00:00",
+          "message_id": "<179562882911.2248.2172901292133135365@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:47:54+00:00",
+      "send_now": false
+    },
+    "CU": {
+      "code": "CU",
+      "name": "Cuba",
+      "display": "Cuba",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "recepcion@usadc.embacuba.cu",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "recepcion@usadc.embacuba.cu",
+          "sent_at": "2025-01-16T20:37:31+00:00",
+          "message_id": "<67896e0b.630a0220.38816d.859f@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "CV": {
+      "code": "CV",
+      "name": "Cabo Verde",
+      "display": "Cabo Verde",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "embassy@caboverdeus.net",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "embassy@caboverdeus.net",
+          "sent_at": "2025-01-16T16:46:39+00:00",
+          "message_id": "<678937ef.170a0220.223f2c.dfeb@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "embassy@caboverdeus.net",
+          "sent_at": "2026-11-25T17:47:09+00:00",
+          "message_id": "<179562878330.2248.4848308567285923375@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:47:09+00:00",
+      "send_now": false
+    },
+    "DJ": {
+      "code": "DJ",
+      "name": "Djibouti",
+      "display": "Djibouti",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@djiboutiembassyus.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@djiboutiembassyus.org",
+          "sent_at": "2025-01-16T20:43:58+00:00",
+          "message_id": "<67896f8e.170a0220.72106.7f04@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00"
+    },
+    "DM": {
+      "code": "DM",
+      "name": "Dominica",
+      "display": "Dominica",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "embdomdc@aol.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "dmaun@undp.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "embdomdc@aol.com",
+          "sent_at": "2025-01-16T20:44:59+00:00",
+          "message_id": "<67896fcb.170a0220.2f7c15.b5f2@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "DZ": {
+      "code": "DZ",
+      "name": "Algeria",
+      "display": "Algeria",
+      "status": "needs_review",
+      "candidate_emails": [
+        {
+          "email": "consular-section@algerianembassy.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consular-section@algerianembassy.org",
+          "sent_at": "2025-01-16T07:42:34+00:00",
+          "message_id": "<6788b86a.170a0220.294501.8966@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "consular-section@algerianembassy.org",
+          "sent_at": "2026-11-24T00:36:23+00:00",
+          "message_id": "<CALnNR03xFZsfxJD32Uuj24aE2m99zVmAEVvE3uJAKyJHNUsZNw@mail.gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": "Embassy asked: where do you currently reside?",
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "EC": {
+      "code": "EC",
+      "name": "Ecuador",
+      "display": "Ecuador",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "eecuusa@cancilleria.gob.ec",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "eecuusa@cancilleria.gob.ec",
+          "sent_at": "2025-01-16T20:47:10+00:00",
+          "message_id": "<6789704e.170a0220.31a83b.a91c@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "ER": {
+      "code": "ER",
+      "name": "Eritrea",
+      "display": "Eritrea",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consular_washington@embassyeritrea.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consular_washington@embassyeritrea.org",
+          "sent_at": "2025-01-16T20:51:24+00:00",
+          "message_id": "<6789714c.170a0220.8ddf7.a6a5@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "ET": {
+      "code": "ET",
+      "name": "Ethiopia",
+      "display": "Ethiopia",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consular@ethiopianembassy.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "Info@ethioconsulatela.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "minnesota.consulate@mfa.gov.et",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consular@ethiopianembassy.org",
+          "sent_at": "2025-01-16T20:54:47+00:00",
+          "message_id": "<67897217.170a0220.b30e0.8505@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "FJ": {
+      "code": "FJ",
+      "name": "Fiji",
+      "display": "Fiji",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "ambassador@fijiembassydc.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "ambassador@fijiembassydc.com",
+          "sent_at": "2025-01-16T20:58:53+00:00",
+          "message_id": "<6789730d.170a0220.2b36db.87bd@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00"
+    },
+    "FM": {
+      "code": "FM",
+      "name": "Micronesia, Federated States of",
+      "display": "the Federated States of Micronesia",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "dcmission@fsmembassy.fm",
+          "source": "state.gov"
+        },
+        {
+          "email": "fsmcghnl@aol.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "cg.portland@gov.fm",
+          "source": "state.gov"
+        },
+        {
+          "email": "fsm@teleguam.net",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "dcmission@fsmembassy.fm",
+          "sent_at": "2025-01-18T09:03:19+00:00",
+          "message_id": "<678b6e57.050a0220.126e7b.6f07@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "GA": {
+      "code": "GA",
+      "name": "Gabon",
+      "display": "Gabon",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@gabonembassyusa.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@gabonembassyusa.org",
+          "sent_at": "2025-01-16T21:05:11+00:00",
+          "message_id": "<67897487.050a0220.6a444.77f8@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "GD": {
+      "code": "GD",
+      "name": "Grenada",
+      "display": "Grenada",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "miami@mofa.gov.gd",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "miami@mofa.gov.gd",
+          "sent_at": "2025-01-16T21:12:41+00:00",
+          "message_id": "<67897649.630a0220.3317ba.9061@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "GH": {
+      "code": "GH",
+      "name": "Ghana",
+      "display": "Ghana",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@ghanaembassydc.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "consular@ghanaconsulatenewyork.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@ghanaembassydc.org",
+          "sent_at": "2025-01-16T21:08:16+00:00",
+          "message_id": "<67897540.630a0220.3477f.7de8@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "GN": {
+      "code": "GN",
+      "name": "Guinea",
+      "display": "Guinea",
+      "status": "queued",
+      "candidate_emails": [],
+      "attempts": [],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "GQ": {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "display": "Equatorial Guinea",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consular@egembassydc.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consular@egembassydc.com",
+          "sent_at": "2025-01-16T20:50:15+00:00",
+          "message_id": "<67897107.170a0220.2890d9.8151@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "GR": {
+      "code": "GR",
+      "name": "Greece",
+      "display": "Greece",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "grcon.was@mfa.gr",
+          "source": "state.gov"
+        },
+        {
+          "email": "grcon.atl@mfa.gr",
+          "source": "state.gov"
+        },
+        {
+          "email": "grgencon.bos@mfa.gr",
+          "source": "state.gov"
+        },
+        {
+          "email": "grgencon.cic@mfa.gr",
+          "source": "state.gov"
+        },
+        {
+          "email": "grcon.hou@mfa.gr",
+          "source": "state.gov"
+        },
+        {
+          "email": "grgencon.la@mfa.gr",
+          "source": "state.gov"
+        },
+        {
+          "email": "grgencon.ny@mfa.grr",
+          "source": "state.gov"
+        },
+        {
+          "email": "grgencon.sf@mfa.gr",
+          "source": "state.gov"
+        },
+        {
+          "email": "grgencon.tam@mfa.gr",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "grcon.was@mfa.gr",
+          "sent_at": "2025-01-16T21:10:19+00:00",
+          "message_id": "<678975bb.170a0220.38f974.c63f@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "GW": {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "display": "Guinea-Bissau",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "guinea-bissau@un.int",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "guinea-bissau@un.int",
+          "sent_at": "2025-01-16T21:16:02+00:00",
+          "message_id": "<67897712.050a0220.336619.80de@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "GY": {
+      "code": "GY",
+      "name": "Guyana",
+      "display": "Guyana",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "guyanaembassydc@verizon.net",
+          "source": "state.gov"
+        },
+        {
+          "email": "cgny@guyanaconsulatenewyork.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "guyanaembassydc@verizon.net",
+          "sent_at": "2025-01-16T21:17:03+00:00",
+          "message_id": "<6789774f.050a0220.64240.7254@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "HN": {
+      "code": "HN",
+      "name": "Honduras",
+      "display": "Honduras",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@wadchn.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@consuladohnatl.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@consuladobostonhn.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "consuladohncharlotteproteccion@gmail.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "chicago@sre.gob.hn",
+          "source": "state.gov"
+        },
+        {
+          "email": "hondurasdallas@hotmail.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "consuladohondurashouston@gmail.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "infoconsuladola@gmail.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "mcallen@sre.gob.hn",
+          "source": "state.gov"
+        },
+        {
+          "email": "proteccionhn.miami@gmail.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "infonolahn@gmail.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "emergenciaconsuladony@gmail.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "consuladohnensanfrancisco@gmail.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "consuladoseattle@gmail.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@wadchn.com",
+          "sent_at": "2025-01-16T21:21:10+00:00",
+          "message_id": "<67897846.170a0220.2514d5.7e2f@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "HT": {
+      "code": "HT",
+      "name": "Haiti",
+      "display": "Haiti",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "cons.wash@diplomatie.ht",
+          "source": "state.gov"
+        },
+        {
+          "email": "cg.atlanta@diplomatie.ht",
+          "source": "state.gov"
+        },
+        {
+          "email": "Cg.boston@diplomatie.ht",
+          "source": "state.gov"
+        },
+        {
+          "email": "Cg.chicago@diplomatie.ht",
+          "source": "state.gov"
+        },
+        {
+          "email": "cons.orlando@diplomatie.ht",
+          "source": "state.gov"
+        },
+        {
+          "email": "Cg.miami@diplomatie.ht",
+          "source": "state.gov"
+        },
+        {
+          "email": "cg.newyork@diplomatie.ht",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "cons.wash@diplomatie.ht",
+          "sent_at": "2025-01-16T21:18:06+00:00",
+          "message_id": "<6789778e.170a0220.223f2c.f7fb@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "IQ": {
+      "code": "IQ",
+      "name": "Iraq",
+      "display": "Iraq",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consulate@iraqiembassy.us",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consulate@iraqiembassy.us",
+          "sent_at": "2025-01-16T21:28:20+00:00",
+          "message_id": "<678979f4.650a0220.15021.8261@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "JM": {
+      "code": "JM",
+      "name": "Jamaica",
+      "display": "Jamaica",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "security@embassyofjamaica.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@jamaicanconsulateatlanta.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@jamaicanconsulateinLA.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "contactus@jamaicacgmiami.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "cro@congenjamaica-ny.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "security@embassyofjamaica.org",
+          "sent_at": "2025-01-16T21:33:28+00:00",
+          "message_id": "<67897b28.170a0220.2896dc.86b0@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "KG": {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "display": "Kyrgyzstan",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "kgconsulate.washington@mfa.gov.kg",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "kgconsulate.washington@mfa.gov.kg",
+          "sent_at": "2025-01-16T21:43:44+00:00",
+          "message_id": "<67897d90.170a0220.1c9fd.7edf@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "KI": {
+      "code": "KI",
+      "name": "Kiribati",
+      "display": "Kiribati",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "fsun@mfa.gov.ki",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "fsun@mfa.gov.ki",
+          "sent_at": "2025-01-16T21:39:37+00:00",
+          "message_id": "<67897c99.050a0220.6a931.740c@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "KM": {
+      "code": "KM",
+      "name": "Comoros",
+      "display": "Comoros",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "comoros@un.int",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "comoros@un.int",
+          "sent_at": "2025-01-16T20:32:14+00:00",
+          "message_id": "<67896cce.170a0220.102e17.bbc2@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "KN": {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "display": "Saint Kitts and Nevis",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "stkittsnevis@embskn.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "stkittsnevis@embskn.com",
+          "sent_at": "2025-01-18T09:11:12+00:00",
+          "message_id": "<678b7030.170a0220.3fd1.7e28@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "KP": {
+      "code": "KP",
+      "name": "Korea, Democratic People's Republic of",
+      "display": "North Korea",
+      "status": "queued",
+      "candidate_emails": [],
+      "attempts": [],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "KZ": {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "display": "Kazakhstan",
+      "status": "pr_open",
+      "candidate_emails": [
+        {
+          "email": "consuldc@mfa.kz",
+          "source": "state.gov"
+        },
+        {
+          "email": "consul.newyork@mfa.kz",
+          "source": "state.gov"
+        },
+        {
+          "email": "sanfrancisco@mfa.kz",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consuldc@mfa.kz",
+          "sent_at": "2025-01-16T21:37:34+00:00",
+          "message_id": "<67897c1e.170a0220.291688.88fc@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": {
+        "visaRequirement": "Visa required",
+        "duration": "",
+        "notes": "An invitation letter must be registered with the Migration Service of Kazakhstan by the inviting party before a visa can be obtained.",
+        "evidence": "The holder of a refugee travel document can visit Kazakhstan only if they have a valid visa for Kazakhstan.",
+        "confidence": 1.0,
+        "from_domain": "mfa.kz",
+        "received_at": "2025-01-22T00:56:26+00:00"
+      },
+      "review_reason": null,
+      "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "LB": {
+      "code": "LB",
+      "name": "Lebanon",
+      "display": "Lebanon",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consular@lebanonembassyus.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@lebanonconsulategdetroit.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@nylebcons.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consular@lebanonembassyus.org",
+          "sent_at": "2025-01-16T21:46:57+00:00",
+          "message_id": "<67897e51.170a0220.34351c.ce08@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "LC": {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "display": "Saint Lucia",
+      "status": "pr_open",
+      "candidate_emails": [
+        {
+          "email": "embassydc@gosl.gov.lc",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@stluciamission.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "embassydc@gosl.gov.lc",
+          "sent_at": "2025-01-18T09:11:24+00:00",
+          "message_id": "<678b703c.630a0220.17cf3f.b357@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": {
+        "visaRequirement": "Visa required",
+        "duration": "",
+        "notes": "You must apply for a visa by emailing your completed application and required documents to the Immigration Department. A fee of US$50 (cash) is payable upon arrival.",
+        "evidence": "You may apply for your Visa through the Immigration Department in Saint Lucia via e-mail.",
+        "confidence": 1.0,
+        "from_domain": "gosl.gov.lc",
+        "received_at": "2025-01-20T21:09:54+00:00"
+      },
+      "review_reason": null,
+      "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "LI": {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "display": "Liechtenstein",
+      "status": "needs_review",
+      "candidate_emails": [
+        {
+          "email": "washington@llv.li",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "washington@llv.li",
+          "sent_at": "2025-01-16T21:51:22+00:00",
+          "message_id": "<67897f5a.170a0220.3af0f2.81ac@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": "Unclear reply (confidence 0.95): Please contact the Swiss representation in your US consular district for further information.",
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "LR": {
+      "code": "LR",
+      "name": "Liberia",
+      "display": "Liberia",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consular@liberianembassyus.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "Info@liberiaconsulate-ny.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consular@liberianembassyus.org",
+          "sent_at": "2025-01-16T21:49:01+00:00",
+          "message_id": "<67897ecd.a70a0220.3359c5.8363@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "LS": {
+      "code": "LS",
+      "name": "Lesotho",
+      "display": "Lesotho",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "lesothoembassy@verizon.net",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "lesothoembassy@verizon.net",
+          "sent_at": "2025-01-16T21:47:59+00:00",
+          "message_id": "<67897e8f.170a0220.127899.833d@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "LY": {
+      "code": "LY",
+      "name": "Libya",
+      "display": "Libya",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "Consular.sec@embassyoflibyadc.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "lbyun@undp.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "Consular.sec@embassyoflibyadc.com",
+          "sent_at": "2025-01-16T21:50:11+00:00",
+          "message_id": "<67897f13.170a0220.e3641.819d@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "MC": {
+      "code": "MC",
+      "name": "Monaco",
+      "display": "Monaco",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "embassy@monacodc.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@monaco-consulate.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "embassy@monacodc.org",
+          "sent_at": "2025-01-18T09:03:43+00:00",
+          "message_id": "<678b6e6f.a70a0220.375c2d.a35e@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "MG": {
+      "code": "MG",
+      "name": "Madagascar",
+      "display": "Madagascar",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "Malagasy.embassy@verizon.net",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "Malagasy.embassy@verizon.net",
+          "sent_at": "2025-01-18T09:01:10+00:00",
+          "message_id": "<678b6dd6.630a0220.12639f.a6c1@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00"
+    },
+    "MH": {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "display": "Marshall Islands",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@rmiembassyus.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@rmiembassyus.org",
+          "sent_at": "2025-01-18T09:02:19+00:00",
+          "message_id": "<678b6e1b.a70a0220.1c5111.aa3e@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "MK": {
+      "code": "MK",
+      "name": "North Macedonia",
+      "display": "North Macedonia",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "cg.newyork@mfa.gov.mk",
+          "source": "embassy_redirect"
+        },
+        {
+          "email": "detroit@mfa.gov.mk",
+          "source": "embassy_redirect"
+        },
+        {
+          "email": "chicago@mfa.gov.mk",
+          "source": "embassy_redirect"
+        },
+        {
+          "email": "washington@mfa.gov.mk",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "washington@mfa.gov.mk",
+          "sent_at": "2025-01-18T09:00:56+00:00",
+          "message_id": "<678b6dc8.170a0220.2dbad4.f5e9@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "cg.newyork@mfa.gov.mk",
+          "sent_at": "2026-11-25T17:37:13+00:00",
+          "message_id": "<179562823231.2248.5238772679204733078@gmail.com>",
+          "kind": "retry",
+          "source": "embassy_redirect",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:37:13+00:00",
+      "reply_pending": false,
+      "send_now": false
+    },
+    "ML": {
+      "code": "ML",
+      "name": "Mali",
+      "display": "Mali",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "amaiga@maliembassy.us",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "amaiga@maliembassy.us",
+          "sent_at": "2025-01-18T09:02:07+00:00",
+          "message_id": "<678b6e0f.630a0220.31704a.a3a5@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00"
+    },
+    "MN": {
+      "code": "MN",
+      "name": "Mongolia",
+      "display": "Mongolia",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "monconsul@mongolianembassy.us",
+          "source": "state.gov"
+        },
+        {
+          "email": "newyork@mfa.gov.mn",
+          "source": "state.gov"
+        },
+        {
+          "email": "sanfrancisco@mfa.gov.mn",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@mongolianconsulate.us",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "monconsul@mongolianembassy.us",
+          "sent_at": "2025-01-18T09:03:56+00:00",
+          "message_id": "<678b6e7c.170a0220.378c25.fc4b@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "MR": {
+      "code": "MR",
+      "name": "Mauritania",
+      "display": "Mauritania",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "ambarimwash@gmail.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "mauritaniamission@gmail.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "ambarimwash@gmail.com",
+          "sent_at": "2025-01-18T09:02:32+00:00",
+          "message_id": "<678b6e28.170a0220.6d897.c0fd@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "MT": {
+      "code": "MT",
+      "name": "Malta",
+      "display": "Malta",
+      "status": "queued",
+      "candidate_emails": [
+        {
+          "email": "maltaembassy.washington@gov.mt​",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "MV": {
+      "code": "MV",
+      "name": "Maldives",
+      "display": "Maldives",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@maldivesmission.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@maldivesmission.com",
+          "sent_at": "2025-01-18T09:01:55+00:00",
+          "message_id": "<678b6e03.170a0220.6dd2.1467@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "MW": {
+      "code": "MW",
+      "name": "Malawi",
+      "display": "Malawi",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "malawidc@aol.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "malawidc@aol.com",
+          "sent_at": "2025-01-18T09:01:22+00:00",
+          "message_id": "<678b6de2.170a0220.3878ae.e344@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "MZ": {
+      "code": "MZ",
+      "name": "Mozambique",
+      "display": "Mozambique",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "washington.dc@embamoc.gov.mz",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "washington.dc@embamoc.gov.mz",
+          "sent_at": "2025-01-18T09:04:43+00:00",
+          "message_id": "<678b6eab.170a0220.8d2d8.8292@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "NE": {
+      "code": "NE",
+      "name": "Niger",
+      "display": "Niger",
+      "status": "pr_open",
+      "candidate_emails": [
+        {
+          "email": "communication@embassyofniger-usa.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "communication@embassyofniger-usa.org",
+          "sent_at": "2025-01-18T09:06:33+00:00",
+          "message_id": "<678b6f19.170a0220.317dc6.8791@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": {
+        "visaRequirement": "Visa required",
+        "duration": "",
+        "notes": "Persons with the USCSIS travel document may request a Nigerian visa, same as US passport holders.",
+        "evidence": "Kindly note that persons with the USCSIS travel document may also request for a Nigerian visa, same as US passport holders.",
+        "confidence": 0.95,
+        "from_domain": "nigeriaembassyusa.org",
+        "received_at": "2025-01-30T18:08:50+00:00"
+      },
+      "review_reason": null,
+      "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "NI": {
+      "code": "NI",
+      "name": "Nicaragua",
+      "display": "Nicaragua",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consularnotification.nic@embanic.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consularnotification.nic@embanic.org",
+          "sent_at": "2025-01-18T09:06:21+00:00",
+          "message_id": "<678b6f0d.170a0220.1dd105.87b0@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "NR": {
+      "code": "NR",
+      "name": "Nauru",
+      "display": "Nauru",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "nauru@onecommonwealth.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "nauru@onecommonwealth.org",
+          "sent_at": "2025-01-18T09:05:19+00:00",
+          "message_id": "<678b6ecf.170a0220.389d0d.e204@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00"
+    },
+    "PG": {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "display": "Papua New Guinea",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@pngembassy.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@pngembassy.org",
+          "sent_at": "2025-01-18T09:08:22+00:00",
+          "message_id": "<678b6f86.050a0220.1eeb8e.5e9c@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "PW": {
+      "code": "PW",
+      "name": "Palau",
+      "display": "Palau",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@palauembassy.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@palauembassy.org",
+          "sent_at": "2025-01-18T09:07:59+00:00",
+          "message_id": "<678b6f6f.170a0220.319649.7fd2@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "PY": {
+      "code": "PY",
+      "name": "Paraguay",
+      "display": "Paraguay",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "eeuuembaparsc@mre.gov.py",
+          "source": "state.gov"
+        },
+        {
+          "email": "losangelescongralpar@mre.gov.py",
+          "source": "state.gov"
+        },
+        {
+          "email": "miamicongralpar@mre.gov.py",
+          "source": "state.gov"
+        },
+        {
+          "email": "info@consulparny.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "eeuuembaparsc@mre.gov.py",
+          "sent_at": "2025-01-18T09:08:34+00:00",
+          "message_id": "<678b6f92.170a0220.111606.7d74@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "RS": {
+      "code": "RS",
+      "name": "Serbia",
+      "display": "Serbia",
+      "status": "pr_open",
+      "candidate_emails": [
+        {
+          "email": "consular@serbiaembusa.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "srb.cons.chicago@mfa.rs",
+          "source": "state.gov"
+        },
+        {
+          "email": "consulate.newyork@mfa.rs",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consular@serbiaembusa.org",
+          "sent_at": "2025-01-18T09:17:12+00:00",
+          "message_id": "<678b7198.170a0220.286b07.c8b8@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": {
+        "visaRequirement": "Visa required",
+        "duration": "",
+        "notes": "Holders of US Refugee Travel Documents need a visa for entry to the Republic of Serbia, though holders of US visas or residence permits may enter without a prior visa for up to 90 days.",
+        "evidence": "Holders of US Travel Document (Permit to Re-enter, Aliens Passport, Refugee Travel Document) need visa for entry to the Republic of Serbia.",
+        "confidence": 1.0,
+        "from_domain": "serbiaembusa.org",
+        "received_at": "2025-01-23T15:16:59+00:00"
+      },
+      "review_reason": null,
+      "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "RU": {
+      "code": "RU",
+      "name": "Russian Federation",
+      "display": "Russia",
+      "status": "needs_review",
+      "candidate_emails": [
+        {
+          "email": "russconswdc@gmail.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "detention@rusconshouston.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "rusvisawdc@usaconsul.ru",
+          "source": "gmail_sent"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "russconswdc@gmail.com",
+          "sent_at": "2025-01-18T09:10:25+00:00",
+          "message_id": "<678b7001.170a0220.2a7c8f.3475@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        },
+        {
+          "email": "rusvisawdc@usaconsul.ru",
+          "sent_at": "2025-01-21T18:08:48+00:00",
+          "message_id": "<CALnNR021-bPVEYhof8x95x_J5vBVdcAjDA0Ujg7352epBEaF1g@mail.gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": "Embassy asked: Could you send a photo of your document?",
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "RW": {
+      "code": "RW",
+      "name": "Rwanda",
+      "display": "Rwanda",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@rwandaembassy.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "rwaun@undp.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@rwandaembassy.org",
+          "sent_at": "2025-01-18T09:10:37+00:00",
+          "message_id": "<678b700d.170a0220.3d6588.7aab@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "SB": {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "display": "Solomon Islands",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "simun@solomons.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "simun@solomons.com",
+          "sent_at": "2025-01-18T09:18:24+00:00",
+          "message_id": "<678b71e0.170a0220.197dd6.3d44@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "SC": {
+      "code": "SC",
+      "name": "Seychelles",
+      "display": "Seychelles",
+      "status": "queued",
+      "candidate_emails": [],
+      "attempts": [],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "SD": {
+      "code": "SD",
+      "name": "Sudan",
+      "display": "Sudan",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consular@sudanembassy.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "sudan@sudanmission.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consular@sudanembassy.org",
+          "sent_at": "2025-01-18T09:19:48+00:00",
+          "message_id": "<678b7234.170a0220.34684f.8715@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "SM": {
+      "code": "SM",
+      "name": "San Marino",
+      "display": "San Marino",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "smrassistant@gmail.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "smrassistant@gmail.com",
+          "sent_at": "2025-01-18T09:12:24+00:00",
+          "message_id": "<678b7078.170a0220.c124e.c93f@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "SO": {
+      "code": "SO",
+      "name": "Somalia",
+      "display": "Somalia",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@somaliembassydc.net",
+          "source": "state.gov"
+        },
+        {
+          "email": "somalia@un.int",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@somaliembassydc.net",
+          "sent_at": "2025-01-18T09:18:36+00:00",
+          "message_id": "<678b71ec.050a0220.2f6b53.9aa4@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        },
+        {
+          "email": "somalia@un.int",
+          "sent_at": "2026-11-25T17:37:59+00:00",
+          "message_id": "<179562823398.2248.3654446257775409597@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:37:59+00:00",
+      "send_now": false
+    },
+    "SR": {
+      "code": "SR",
+      "name": "Suriname",
+      "display": "Suriname",
+      "status": "queued",
+      "candidate_emails": [],
+      "attempts": [],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "SS": {
+      "code": "SS",
+      "name": "South Sudan",
+      "display": "South Sudan",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consularofficedc@gmail.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consularofficedc@gmail.com",
+          "sent_at": "2025-01-18T09:19:13+00:00",
+          "message_id": "<678b7211.170a0220.2a1a43.81aa@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "ST": {
+      "code": "ST",
+      "name": "Sao Tome and Principe",
+      "display": "Sao Tome and Principe",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "rdstppmun@gmail.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "rdstppmun@gmail.com",
+          "sent_at": "2025-01-18T09:12:35+00:00",
+          "message_id": "<678b7083.170a0220.3bc538.84dc@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00"
+    },
+    "TD": {
+      "code": "TD",
+      "name": "Chad",
+      "display": "Chad",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "firstsecretary@chadembassy.us",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "firstsecretary@chadembassy.us",
+          "sent_at": "2025-01-16T16:52:48+00:00",
+          "message_id": "<67893960.170a0220.156f4f.94aa@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "TG": {
+      "code": "TG",
+      "name": "Togo",
+      "display": "Togo",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "info@togoembassy.us",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "info@togoembassy.us",
+          "sent_at": "2025-01-18T09:21:56+00:00",
+          "message_id": "<678b72b4.170a0220.6dad8.7fbf@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00"
+    },
+    "TL": {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "display": "Timor-Leste",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "ConSec@timorlesteembassy.org",
+          "source": "state.gov"
+        },
+        {
+          "email": "timor-leste@un.int",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "ConSec@timorlesteembassy.org",
+          "sent_at": "2025-01-18T09:21:44+00:00",
+          "message_id": "<678b72a8.050a0220.22c69f.9ab1@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        },
+        {
+          "email": "timor-leste@un.int",
+          "sent_at": "2026-11-25T17:38:45+00:00",
+          "message_id": "<179562827976.2248.10996729487070909989@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:38:45+00:00",
+      "send_now": false
+    },
+    "TM": {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "display": "Turkmenistan",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "turkmenembassyus@verizon.net",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "turkmenembassyus@verizon.net",
+          "sent_at": "2025-01-18T09:23:11+00:00",
+          "message_id": "<678b72ff.170a0220.13d1d8.ed9b@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "TN": {
+      "code": "TN",
+      "name": "Tunisia",
+      "display": "Tunisia",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consular@tunisianembassy.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consular@tunisianembassy.org",
+          "sent_at": "2025-01-18T09:22:48+00:00",
+          "message_id": "<678b72e8.170a0220.1f6fb5.81c4@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "TO": {
+      "code": "TO",
+      "name": "Tonga",
+      "display": "Tonga",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consulategeneraloftonga@gmail.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "tongaconsnot@gmail.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consulategeneraloftonga@gmail.com",
+          "sent_at": "2025-01-18T09:22:20+00:00",
+          "message_id": "<678b72cc.170a0220.3db659.c969@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "TV": {
+      "code": "TV",
+      "name": "Tuvalu",
+      "display": "Tuvalu",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "tuvalumission.un@gmail.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "tuvalumission.un@gmail.com",
+          "sent_at": "2025-01-18T09:23:23+00:00",
+          "message_id": "<678b730b.170a0220.1071c2.c77f@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": true
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00"
+    },
+    "UY": {
+      "code": "UY",
+      "name": "Uruguay",
+      "display": "Uruguay",
+      "status": "needs_review",
+      "candidate_emails": [
+        {
+          "email": "cdwashington@mrree.gub.uy",
+          "source": "state.gov"
+        },
+        {
+          "email": "cgmiami@mrree.gub.uy",
+          "source": "state.gov"
+        },
+        {
+          "email": "cgnuevayork@mrree.gub.uy",
+          "source": "state.gov"
+        },
+        {
+          "email": "cgsanfrancisco@mrree.gub.uy",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "cdwashington@mrree.gub.uy",
+          "sent_at": "2025-01-18T09:24:11+00:00",
+          "message_id": "<678b733b.050a0220.3cd189.6c33@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": "Embassy asked: In order to reply to your questions we need an actual passport with nationality of the person and details.",
+      "pr_url": null,
+      "updated_at": "2026-11-25T17:27:21+00:00",
+      "reply_pending": false
+    },
+    "VA": {
+      "code": "VA",
+      "name": "Holy See",
+      "display": "the Holy See",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "nuntiususa@nuntiususa.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "nuntiususa@nuntiususa.org",
+          "sent_at": "2025-01-16T21:20:08+00:00",
+          "message_id": "<67897808.050a0220.293139.80a6@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "VC": {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "display": "Saint Vincent and the Grenadines",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "mail@embsvg.com",
+          "source": "state.gov"
+        },
+        {
+          "email": "svgmission@gmail.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "mail@embsvg.com",
+          "sent_at": "2025-01-18T09:12:00+00:00",
+          "message_id": "<678b7060.170a0220.375a7.7d02@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "VE": {
+      "code": "VE",
+      "name": "Venezuela, Bolivarian Republic of",
+      "display": "Venezuela",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consnot@state.gov",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consnot@state.gov",
+          "sent_at": "2025-01-18T09:24:47+00:00",
+          "message_id": "<678b735f.170a0220.23daa9.8a18@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "VU": {
+      "code": "VU",
+      "name": "Vanuatu",
+      "display": "Vanuatu",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "vanunmis@aol.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "vanunmis@aol.com",
+          "sent_at": "2025-01-18T09:24:35+00:00",
+          "message_id": "<678b7353.050a0220.17c14f.6009@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "WS": {
+      "code": "WS",
+      "name": "Samoa",
+      "display": "Samoa",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "samoanymission@outlook.com",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "samoanymission@outlook.com",
+          "sent_at": "2025-01-18T09:12:12+00:00",
+          "message_id": "<678b706c.050a0220.1a73c6.8b97@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "YE": {
+      "code": "YE",
+      "name": "Yemen",
+      "display": "Yemen",
+      "status": "queued",
+      "candidate_emails": [],
+      "attempts": [],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    },
+    "ZW": {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "display": "Zimbabwe",
+      "status": "awaiting_reply",
+      "candidate_emails": [
+        {
+          "email": "consular@zimembassydc.org",
+          "source": "state.gov"
+        }
+      ],
+      "attempts": [
+        {
+          "email": "consular@zimembassydc.org",
+          "sent_at": "2025-01-18T09:25:48+00:00",
+          "message_id": "<678b739c.a70a0220.16866.aa90@mx.google.com>",
+          "kind": "initial",
+          "source": "gmail_sent",
+          "bounced": false
+        }
+      ],
+      "searches": [],
+      "answer": null,
+      "review_reason": null,
+      "pr_url": null,
+      "updated_at": null
+    }
+  }
+}
