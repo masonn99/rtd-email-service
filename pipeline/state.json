@@ -38,11 +38,14 @@
     "<678fc824.c80a0220.2c38f7.bc7a.GMR@mx.google.com>",
     "<6b071d54.713fcec2.32e5de.c3d0.GMR@mx.google.com>",
     "<6b071d82.efc85d46.30f135.daa4.GMR@mx.google.com>",
+    "<6b08efcf.69f59142.100531.e211.GMR@mx.google.com>",
+    "<6b08f056.1a6babde.156c66.64fb.GMR@mx.google.com>",
     "<74dacf86-ccb4-46cb-bb23-ec1fbb968fe0@usaconsul.ru>",
     "<7e60c899d48d488ea320b7d8380b8707@llv.li>",
     "<CAERLdPGDdAOfC1hLgfnSSAHRGwq5+oZJWJoqxLbdyoCmPXYw3g@mail.gmail.com>",
     "<CAF_q5Hz8FoTJKJ9RJXv7XE_DS_ppeyhbrBZap_kabY4hedWNtQ@mail.gmail.com>",
     "<CAFjf5F53Avathwr_uW8=DmOU010TSoyUvtyasofuMWmQj+S40w@mail.gmail.com>",
+    "<CAPEG7WugoR93h+n3ve7_LXVKWr6g5H=kH5N7Rget8=ZPA5C5sQ@mail.gmail.com>",
     "<DB3P192MB212921BE321519D356BE3AF2B8E12@DB3P192MB2129.EURP192.PROD.OUTLOOK.COM>",
     "<PH0PR12MB7790AB62240C1352CFB20C38EF1A2@PH0PR12MB7790.namprd12.prod.outlook.com>",
     "<SA1PR22MB41471A6AD9F428E8687C36D3ECE62@SA1PR22MB4147.namprd22.prod.outlook.com>",
@@ -321,7 +324,7 @@
       "code": "BF",
       "name": "Burkina Faso",
       "display": "Burkina Faso",
-      "status": "pr_open",
+      "status": "done",
       "candidate_emails": [
         {
           "email": "ambawdc@verizon.net",
@@ -362,7 +365,7 @@
       },
       "review_reason": null,
       "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/85",
-      "updated_at": "2026-11-27T02:40:45+00:00",
+      "updated_at": "2026-11-27T22:44:24+00:00",
       "send_now": false,
       "reply_pending": false
     },
@@ -737,7 +740,7 @@
       "code": "CG",
       "name": "Congo",
       "display": "Congo",
-      "status": "awaiting_reply",
+      "status": "pr_open",
       "candidate_emails": [
         {
           "email": "consulate@ambacongo-us.org",
@@ -763,11 +766,20 @@
         }
       ],
       "searches": [],
-      "answer": null,
+      "answer": {
+        "visaRequirement": "Visa required",
+        "duration": "",
+        "notes": "There is no e-visa or visa on arrival. You must apply for a visa prior to travel by sending required documents via FedEx or dropping them off in person, with processing taking 7-10 days.",
+        "evidence": "Yes, even if you have a green USA travel document passport, you still need a visa.",
+        "confidence": 1.0,
+        "from_domain": "ambacongo-us.org",
+        "received_at": "2026-11-27T04:58:14+00:00"
+      },
       "review_reason": null,
-      "pr_url": null,
-      "updated_at": "2026-11-27T02:44:27+00:00",
-      "send_now": false
+      "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/86",
+      "updated_at": "2026-11-27T22:44:24+00:00",
+      "send_now": false,
+      "reply_pending": false
     },
     "CI": {
       "code": "CI",
@@ -970,14 +982,14 @@
           "message_id": "<179574755914.2956.7865623716373048495@gmail.com>",
           "kind": "retry",
           "source": "state.gov",
-          "bounced": false
+          "bounced": true
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": "2026-11-27T02:46:44+00:00",
+      "updated_at": "2026-11-27T22:44:24+00:00",
       "send_now": false
     },
     "DZ": {
@@ -1122,6 +1134,14 @@
           "message_id": "<179574774426.2956.7289417909436630838@gmail.com>",
           "kind": "retry",
           "source": "state.gov",
+          "bounced": true
+        },
+        {
+          "email": "minnesota.consulate@mfa.gov.et",
+          "sent_at": "2026-11-27T22:45:04+00:00",
+          "message_id": "<179581950386.2463.12710810083627398007@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
           "bounced": false
         }
       ],
@@ -1129,7 +1149,7 @@
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": "2026-11-27T02:49:50+00:00",
+      "updated_at": "2026-11-27T22:45:04+00:00",
       "send_now": false
     },
     "FJ": {
@@ -1446,13 +1466,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "guinea-bissau@un.int",
+          "sent_at": "2026-11-27T22:45:50+00:00",
+          "message_id": "<179581950489.2463.9411472027551506644@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:45:50+00:00",
+      "send_now": false
     },
     "GY": {
       "code": "GY",
@@ -1477,14 +1506,23 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "cgny@guyanaconsulatenewyork.org",
+          "sent_at": "2026-11-27T22:46:36+00:00",
+          "message_id": "<179581955053.2463.9323505379902224523@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": "2026-11-25T17:27:21+00:00",
-      "reply_pending": false
+      "updated_at": "2026-11-27T22:46:36+00:00",
+      "reply_pending": false,
+      "send_now": false
     },
     "HN": {
       "code": "HN",
@@ -1557,13 +1595,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "info@consuladohnatl.com",
+          "sent_at": "2026-11-27T22:48:53+00:00",
+          "message_id": "<179581968777.2463.1247568178816260374@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:48:53+00:00",
+      "send_now": false
     },
     "HT": {
       "code": "HT",
@@ -1608,14 +1655,23 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "cg.atlanta@diplomatie.ht",
+          "sent_at": "2026-11-27T22:47:22+00:00",
+          "message_id": "<179581959624.2463.17877597917105571900@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": "2026-11-25T17:27:21+00:00",
-      "reply_pending": false
+      "updated_at": "2026-11-27T22:47:22+00:00",
+      "reply_pending": false,
+      "send_now": false
     },
     "IQ": {
       "code": "IQ",
@@ -1679,13 +1735,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "info@jamaicanconsulateatlanta.org",
+          "sent_at": "2026-11-27T22:49:39+00:00",
+          "message_id": "<179581973354.2463.12502521879286220311@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:49:39+00:00",
+      "send_now": false
     },
     "KG": {
       "code": "KG",
@@ -1706,13 +1771,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "kgconsulate.washington@mfa.gov.kg",
+          "sent_at": "2026-11-27T22:51:10+00:00",
+          "message_id": "<179581982481.2463.9770418769747716860@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:51:10+00:00",
+      "send_now": false
     },
     "KI": {
       "code": "KI",
@@ -1733,13 +1807,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "fsun@mfa.gov.ki",
+          "sent_at": "2026-11-27T22:50:24+00:00",
+          "message_id": "<179581977918.2463.10901916356405197171@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:50:24+00:00",
+      "send_now": false
     },
     "KM": {
       "code": "KM",
@@ -1888,13 +1971,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "info@lebanonconsulategdetroit.org",
+          "sent_at": "2026-11-27T22:51:56+00:00",
+          "message_id": "<179581987060.2463.15228248357605209475@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:51:56+00:00",
+      "send_now": false
     },
     "LC": {
       "code": "LC",
@@ -1987,13 +2079,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "Info@liberiaconsulate-ny.com",
+          "sent_at": "2026-11-27T22:53:27+00:00",
+          "message_id": "<179581996190.2463.10004127514012505456@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:53:27+00:00",
+      "send_now": false
     },
     "LS": {
       "code": "LS",
@@ -2014,13 +2115,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "lesothoembassy@verizon.net",
+          "sent_at": "2026-11-27T22:52:41+00:00",
+          "message_id": "<179581991627.2463.7213611385364654856@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:52:41+00:00",
+      "send_now": false
     },
     "LY": {
       "code": "LY",
@@ -2045,13 +2155,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "lbyun@undp.org",
+          "sent_at": "2026-11-27T22:54:13+00:00",
+          "message_id": "<179582000763.2463.3844344787505488828@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:54:13+00:00",
+      "send_now": false
     },
     "MC": {
       "code": "MC",
@@ -2321,13 +2440,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "info@maldivesmission.com",
+          "sent_at": "2026-11-27T22:55:44+00:00",
+          "message_id": "<179582009891.2463.11039391028742549072@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:55:44+00:00",
+      "send_now": false
     },
     "MW": {
       "code": "MW",
@@ -2348,13 +2476,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "malawidc@aol.com",
+          "sent_at": "2026-11-27T22:54:58+00:00",
+          "message_id": "<179582005331.2463.3209657455694121007@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:54:58+00:00",
+      "send_now": false
     },
     "MZ": {
       "code": "MZ",
@@ -3164,13 +3301,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "nuntiususa@nuntiususa.org",
+          "sent_at": "2026-11-27T22:48:07+00:00",
+          "message_id": "<179581964209.2463.10346935788188196016@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T22:48:07+00:00",
+      "send_now": false
     },
     "VC": {
       "code": "VC",
