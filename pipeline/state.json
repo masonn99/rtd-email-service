@@ -36,13 +36,17 @@
     "<678f8839.050a0220.15ee.01ae.GMR@mx.google.com>",
     "<678f924d.050a0220.96d2a.c636.GMR@mx.google.com>",
     "<678fc824.c80a0220.2c38f7.bc7a.GMR@mx.google.com>",
+    "<6b071d54.713fcec2.32e5de.c3d0.GMR@mx.google.com>",
+    "<6b071d82.efc85d46.30f135.daa4.GMR@mx.google.com>",
     "<74dacf86-ccb4-46cb-bb23-ec1fbb968fe0@usaconsul.ru>",
     "<7e60c899d48d488ea320b7d8380b8707@llv.li>",
+    "<CAERLdPGDdAOfC1hLgfnSSAHRGwq5+oZJWJoqxLbdyoCmPXYw3g@mail.gmail.com>",
     "<CAF_q5Hz8FoTJKJ9RJXv7XE_DS_ppeyhbrBZap_kabY4hedWNtQ@mail.gmail.com>",
     "<CAFjf5F53Avathwr_uW8=DmOU010TSoyUvtyasofuMWmQj+S40w@mail.gmail.com>",
     "<DB3P192MB212921BE321519D356BE3AF2B8E12@DB3P192MB2129.EURP192.PROD.OUTLOOK.COM>",
     "<PH0PR12MB7790AB62240C1352CFB20C38EF1A2@PH0PR12MB7790.namprd12.prod.outlook.com>",
     "<SA1PR22MB41471A6AD9F428E8687C36D3ECE62@SA1PR22MB4147.namprd22.prod.outlook.com>",
+    "<VI0P192MB34988ADFA85F4652E2F2E159BB432@VI0P192MB3498.EURP192.PROD.OUTLOOK.COM>",
     "<b0462d52ae2f93a7b9c4203ba4ebb4c5@nigeriaembassyusa.org>",
     "<cbec40d6c30743108875dd8837c57e55@mfa.kz>",
     "<e2ccac3f921c4d648ba67908c648de34@mrree.gub.uy>"
@@ -74,14 +78,14 @@
           "message_id": "<179562832555.2248.17295223318376548930@gmail.com>",
           "kind": "follow_up",
           "source": "gmail_sent",
-          "bounced": false
+          "bounced": true
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": "2026-11-25T17:39:31+00:00",
+      "updated_at": "2026-11-27T02:40:45+00:00",
       "send_now": false
     },
     "AF": {
@@ -101,7 +105,7 @@
       "code": "AG",
       "name": "Antigua and Barbuda",
       "display": "Antigua and Barbuda",
-      "status": "pr_open",
+      "status": "done",
       "candidate_emails": [
         {
           "email": "embantbar@aol.com",
@@ -130,7 +134,7 @@
       },
       "review_reason": null,
       "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
-      "updated_at": "2026-11-25T17:27:21+00:00",
+      "updated_at": "2026-11-27T02:40:45+00:00",
       "reply_pending": false
     },
     "AO": {
@@ -167,6 +171,14 @@
           "message_id": "<179562837138.2248.17086277761265040220@gmail.com>",
           "kind": "retry",
           "source": "state.gov",
+          "bounced": true
+        },
+        {
+          "email": "info@angolaconsulateny.org",
+          "sent_at": "2026-11-27T02:42:08+00:00",
+          "message_id": "<179574732665.2956.14844387539834115083@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
           "bounced": false
         }
       ],
@@ -174,7 +186,7 @@
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": "2026-11-25T17:40:17+00:00",
+      "updated_at": "2026-11-27T02:42:08+00:00",
       "send_now": false
     },
     "AZ": {
@@ -309,7 +321,7 @@
       "code": "BF",
       "name": "Burkina Faso",
       "display": "Burkina Faso",
-      "status": "awaiting_reply",
+      "status": "pr_open",
       "candidate_emails": [
         {
           "email": "ambawdc@verizon.net",
@@ -339,11 +351,20 @@
         }
       ],
       "searches": [],
-      "answer": null,
+      "answer": {
+        "visaRequirement": "E-Visa",
+        "duration": "",
+        "notes": "You can apply for your visa online, and once approved, it will be sent to you by email to print out and present.",
+        "evidence": "You can apply for your visa online on the website below by following the instructions.",
+        "confidence": 1.0,
+        "from_domain": "gmail.com",
+        "received_at": "2026-11-25T22:18:05+00:00"
+      },
       "review_reason": null,
-      "pr_url": null,
-      "updated_at": "2026-11-25T17:46:23+00:00",
-      "send_now": false
+      "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/85",
+      "updated_at": "2026-11-27T02:40:45+00:00",
+      "send_now": false,
+      "reply_pending": false
     },
     "BG": {
       "code": "BG",
@@ -397,7 +418,7 @@
       "code": "BH",
       "name": "Bahrain",
       "display": "Bahrain",
-      "status": "pr_open",
+      "status": "done",
       "candidate_emails": [
         {
           "email": "consulate@bahrainembassy.org",
@@ -442,7 +463,7 @@
       },
       "review_reason": null,
       "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
-      "updated_at": "2026-11-25T17:27:21+00:00",
+      "updated_at": "2026-11-27T02:40:45+00:00",
       "reply_pending": false
     },
     "BI": {
@@ -731,13 +752,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "consulate@ambacongo-us.org",
+          "sent_at": "2026-11-27T02:44:27+00:00",
+          "message_id": "<179574742140.2956.3140229795784418573@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:44:27+00:00",
+      "send_now": false
     },
     "CI": {
       "code": "CI",
@@ -758,13 +788,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "info@ambacidc.org",
+          "sent_at": "2026-11-27T02:45:59+00:00",
+          "message_id": "<179574751317.2956.11572026267963228740@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:45:59+00:00",
+      "send_now": false
     },
     "CM": {
       "code": "CM",
@@ -821,13 +860,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "recepcion@usadc.embacuba.cu",
+          "sent_at": "2026-11-27T02:45:13+00:00",
+          "message_id": "<179574746714.2956.6497086140326955020@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:45:13+00:00",
+      "send_now": false
     },
     "CV": {
       "code": "CV",
@@ -915,13 +963,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "dmaun@undp.org",
+          "sent_at": "2026-11-27T02:46:44+00:00",
+          "message_id": "<179574755914.2956.7865623716373048495@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:46:44+00:00",
+      "send_now": false
     },
     "DZ": {
       "code": "DZ",
@@ -978,13 +1035,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "eecuusa@cancilleria.gob.ec",
+          "sent_at": "2026-11-27T02:47:31+00:00",
+          "message_id": "<179574760496.2956.10042210327405259438@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:47:31+00:00",
+      "send_now": false
     },
     "ER": {
       "code": "ER",
@@ -1005,13 +1071,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "consular_washington@embassyeritrea.org",
+          "sent_at": "2026-11-27T02:49:04+00:00",
+          "message_id": "<179574769731.2956.11244269315457463009@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:49:04+00:00",
+      "send_now": false
     },
     "ET": {
       "code": "ET",
@@ -1040,13 +1115,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "Info@ethioconsulatela.org",
+          "sent_at": "2026-11-27T02:49:50+00:00",
+          "message_id": "<179574774426.2956.7289417909436630838@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:49:50+00:00",
+      "send_now": false
     },
     "FJ": {
       "code": "FJ",
@@ -1133,13 +1217,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "info@gabonembassyusa.org",
+          "sent_at": "2026-11-27T02:50:37+00:00",
+          "message_id": "<179574779056.2956.2015450837059892730@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:50:37+00:00",
+      "send_now": false
     },
     "GD": {
       "code": "GD",
@@ -1160,13 +1253,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "miami@mofa.gov.gd",
+          "sent_at": "2026-11-27T02:52:56+00:00",
+          "message_id": "<179574793004.2956.4526405705876185417@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:52:56+00:00",
+      "send_now": false
     },
     "GH": {
       "code": "GH",
@@ -1191,13 +1293,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "consular@ghanaconsulatenewyork.org",
+          "sent_at": "2026-11-27T02:51:22+00:00",
+          "message_id": "<179574783707.2956.7091438264072858324@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:51:22+00:00",
+      "send_now": false
     },
     "GN": {
       "code": "GN",
@@ -1231,13 +1342,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "consular@egembassydc.com",
+          "sent_at": "2026-11-27T02:48:17+00:00",
+          "message_id": "<179574765130.2956.2052245537154727017@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:48:17+00:00",
+      "send_now": false
     },
     "GR": {
       "code": "GR",
@@ -1290,13 +1410,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "grcon.atl@mfa.gr",
+          "sent_at": "2026-11-27T02:52:10+00:00",
+          "message_id": "<179574788286.2956.3014373686507977880@gmail.com>",
+          "kind": "retry",
+          "source": "state.gov",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:52:10+00:00",
+      "send_now": false
     },
     "GW": {
       "code": "GW",
@@ -1492,7 +1621,7 @@
       "code": "IQ",
       "name": "Iraq",
       "display": "Iraq",
-      "status": "awaiting_reply",
+      "status": "done",
       "candidate_emails": [
         {
           "email": "consulate@iraqiembassy.us",
@@ -1513,7 +1642,7 @@
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:40:45+00:00"
     },
     "JM": {
       "code": "JM",
@@ -1631,13 +1760,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "comoros@un.int",
+          "sent_at": "2026-11-27T02:43:41+00:00",
+          "message_id": "<179574737478.2956.5512830969857488639@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:43:41+00:00",
+      "send_now": false
     },
     "KN": {
       "code": "KN",
@@ -1683,7 +1821,7 @@
       "code": "KZ",
       "name": "Kazakhstan",
       "display": "Kazakhstan",
-      "status": "pr_open",
+      "status": "done",
       "candidate_emails": [
         {
           "email": "consuldc@mfa.kz",
@@ -1720,7 +1858,7 @@
       },
       "review_reason": null,
       "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
-      "updated_at": "2026-11-25T17:27:21+00:00",
+      "updated_at": "2026-11-27T02:40:45+00:00",
       "reply_pending": false
     },
     "LB": {
@@ -1762,7 +1900,7 @@
       "code": "LC",
       "name": "Saint Lucia",
       "display": "Saint Lucia",
-      "status": "pr_open",
+      "status": "done",
       "candidate_emails": [
         {
           "email": "embassydc@gosl.gov.lc",
@@ -1795,7 +1933,7 @@
       },
       "review_reason": null,
       "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
-      "updated_at": "2026-11-25T17:27:21+00:00",
+      "updated_at": "2026-11-27T02:40:45+00:00",
       "reply_pending": false
     },
     "LI": {
@@ -2045,7 +2183,7 @@
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": "2026-11-25T17:37:13+00:00",
+      "updated_at": "2026-11-27T02:40:45+00:00",
       "reply_pending": false,
       "send_now": false
     },
@@ -2249,7 +2387,7 @@
       "code": "NE",
       "name": "Niger",
       "display": "Niger",
-      "status": "pr_open",
+      "status": "done",
       "candidate_emails": [
         {
           "email": "communication@embassyofniger-usa.org",
@@ -2278,7 +2416,7 @@
       },
       "review_reason": null,
       "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
-      "updated_at": "2026-11-25T17:27:21+00:00",
+      "updated_at": "2026-11-27T02:40:45+00:00",
       "reply_pending": false
     },
     "NI": {
@@ -2432,7 +2570,7 @@
       "code": "RS",
       "name": "Serbia",
       "display": "Serbia",
-      "status": "pr_open",
+      "status": "done",
       "candidate_emails": [
         {
           "email": "consular@serbiaembusa.org",
@@ -2469,7 +2607,7 @@
       },
       "review_reason": null,
       "pr_url": "https://github.com/masonn99/rtd-travel-check/pull/83",
-      "updated_at": "2026-11-25T17:27:21+00:00",
+      "updated_at": "2026-11-27T02:40:45+00:00",
       "reply_pending": false
     },
     "RU": {
@@ -2771,13 +2909,22 @@
           "kind": "initial",
           "source": "gmail_sent",
           "bounced": false
+        },
+        {
+          "email": "firstsecretary@chadembassy.us",
+          "sent_at": "2026-11-27T02:42:54+00:00",
+          "message_id": "<179574732822.2956.3593170457421562082@gmail.com>",
+          "kind": "follow_up",
+          "source": "gmail_sent",
+          "bounced": false
         }
       ],
       "searches": [],
       "answer": null,
       "review_reason": null,
       "pr_url": null,
-      "updated_at": null
+      "updated_at": "2026-11-27T02:42:54+00:00",
+      "send_now": false
     },
     "TG": {
       "code": "TG",
