@@ -8,7 +8,7 @@ from pathlib import Path
 
 from pipeline import scheduler, state as st, travel_check
 from pipeline.countries import Countries
-from pipeline.inbox import Incoming, bounced_addresses, match_country, strip_quoted
+from pipeline.inbox import Incoming, bounced_addresses, match_country, parse_date, strip_quoted
 from pipeline.llm import normalize_parsed, select_emails
 from pipeline.mailer import build
 
@@ -324,6 +324,22 @@ class GeminiPacing(unittest.TestCase):
         p = self.llm.parse_reply("k", "Angola", "a@b.org", "body")
         self.assertEqual(p["visaRequirement"], "Visa required")
         self.assertEqual([c["model"] for c in calls], self.llm.GEMINI_PARSE_MODELS[:2])
+
+
+class ParseDateTests(unittest.TestCase):
+    def test_minus_zero_offset_is_aware(self):
+        # "-0000" makes parsedate_to_datetime return a naive datetime
+        d = parse_date("Mon, 13 Jan 2025 10:00:00 -0000")
+        self.assertEqual(d, datetime(2025, 1, 13, 10, tzinfo=timezone.utc))
+
+    def test_mixed_offsets_sort(self):
+        dates = [parse_date("Mon, 13 Jan 2025 10:00:00 -0000"),
+                 parse_date("Mon, 13 Jan 2025 09:00:00 -0800")]
+        self.assertEqual(sorted(dates)[0], dates[0])
+
+    def test_bad_header(self):
+        self.assertIsNone(parse_date(None))
+        self.assertIsNone(parse_date("not a date"))
 
 
 if __name__ == "__main__":

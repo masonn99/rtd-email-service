@@ -7,7 +7,7 @@ import email.utils
 import imaplib
 import re
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timezone
 from email.message import Message
 from html import unescape
 from typing import Callable, Dict, Iterator, List, Optional
@@ -30,6 +30,22 @@ class Incoming:
     @property
     def is_bounce(self) -> bool:
         return self.sender.startswith(BOUNCE_SENDERS)
+
+
+def parse_date(value: Optional[str]) -> Optional[datetime]:
+    """Parse an email Date header into an aware UTC datetime, or None.
+
+    parsedate_to_datetime returns a *naive* datetime for "-0000" offsets
+    (RFC 2822: unknown timezone) and an aware one otherwise; mixing the two
+    breaks sorting and comparisons, so always normalise to aware UTC.
+    """
+    try:
+        dt = email.utils.parsedate_to_datetime(value)
+    except (TypeError, ValueError):
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
 
 
 def decode(value: Optional[str]) -> str:
@@ -150,9 +166,8 @@ class Inbox:
                 if not hdr or not hdr[0] or not isinstance(hdr[0], tuple):
                     continue
                 h = email.message_from_bytes(hdr[0][1])
-                try:
-                    date = email.utils.parsedate_to_datetime(h.get("Date"))
-                except (TypeError, ValueError):
+                date = parse_date(h.get("Date"))
+                if date is None:
                     continue
                 out.append({
                     "to": email.utils.parseaddr(h.get("To", ""))[1],
@@ -183,10 +198,7 @@ class Inbox:
             sender = email.utils.parseaddr(h.get("From", ""))[1].lower()
             if mid in skip_ids or sender == self.user:
                 continue
-            try:
-                date = email.utils.parsedate_to_datetime(h.get("Date"))
-            except (TypeError, ValueError):
-                date = None
+            date = parse_date(h.get("Date"))
             item = Incoming(
                 uid=uid.decode(),
                 message_id=mid,
